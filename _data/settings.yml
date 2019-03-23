@@ -13,17 +13,17 @@ menu_settings:
     #- title: '_contact'
     #  url: '/contact'
     - title: '_news'
-      url: '/news/index.html'
+      url: '/news/'
     - title: '_teaching'
-      url: '/teaching.html'
+      url: '/teaching'
     - title: '_curatorial'
-      url: 'curatorial.html'
+      url: '/curatorial'
     - title: '_projects'
       url: '/'
     - title: '_writing'
-      url: '/writing/index.html' #create page here that uses blog format but displaying only the writing category!
+      url: '/writing/' #create page here that uses blog format but displaying only the writing category!
     - title: '_about'
-      url: 'about.html'
+      url: '/about'
     - title: '_main' # renamed from blog
       url: '/' # url: '/blog/' #must be changed to root when it's the main site...
 
