@@ -5,7 +5,7 @@ date: "2014-02-10 18:20"
 description:
 featured_image: "/images/content/live_coding.jpg/"
 category: writing
-tags: live_coding creative_computing IP copyright improvisation music
+tags:
 ---
 
 [Published][1] in _Computer Music Journal_ 38:1 (2014), special issue edited by  Alex McLean, Julian Rohrhuber, and Nick Collins
