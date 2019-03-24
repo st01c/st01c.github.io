@@ -1,5 +1,5 @@
 ---
-title: "\"Métic Action in Digital Culture\""
+title: "Métic Action in Digital Culture"
 short_title: Métic Action in Digital Culture
 date: "2017-10-10 19:51"
 featured_image: "/images/content/cunning.jpg"
