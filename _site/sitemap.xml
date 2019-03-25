@@ -19,6 +19,10 @@
 <loc>http://localhost:4000/thanks</loc>
 </url>
 <url>
+<loc>http://localhost:4000/blog/chiptuning-intellectual-property</loc>
+<lastmod>2013-03-25T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/blog/live-coding-the-law</loc>
 <lastmod>2014-02-10T18:20:00+00:00</lastmod>
 </url>
@@ -63,7 +67,7 @@
 <lastmod>2019-03-22T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/blog/survival-interventions-in-gta-on-the-limits-of-performance-in-virtual-environments</loc>
+<loc>http://localhost:4000/blog/survival-interventions-in-gta</loc>
 <lastmod>2019-03-25T00:00:00+00:00</lastmod>
 </url>
 <url>
