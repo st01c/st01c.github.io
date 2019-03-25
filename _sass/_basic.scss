@@ -202,8 +202,8 @@ a {
 	@include transition(all 0.15s ease-in-out);
 
 	&:hover {
-		background-color: yellow; //!
-		//color: $accent-color;  !
+		background-color: $accent-color; //yellow; //!
+		color: white; //$hover-link-color; //$accent-color;  !
 	}
 }
 

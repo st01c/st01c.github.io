@@ -81,6 +81,7 @@ color_settings:
   overlay_text_color: '#000000' #'#ffffff' # grid item text color
   overlay_accent_color: '#2A2F36' # ??
   error_color: '#D64541'
+  hover-link-color: 'ffffff'
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Poppins:300,500" rel="stylesheet">'
