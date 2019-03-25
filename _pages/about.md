@@ -15,7 +15,7 @@ Currently working on completing a monograph, tentatively titled ***Digital Art a
 
 ---
 
-_This website is currently under construction (as of {{ 'now' | date: "%b %y"}}). Meanwhile, here is a static list of some upcoming and recent activities (an approximate CV can be found [here](https://anglia.academia.edu/MZ)):_
+_This website is currently under construction. Meanwhile, here is a static list of some upcoming and recent activities (an approximate CV can be found [here](https://anglia.academia.edu/MZ)):_
 
 #### \_upcoming
 
