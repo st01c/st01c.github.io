@@ -18,8 +18,8 @@ menu_settings:
       url: '/teaching'
     - title: '_curatorial'
       url: '/curatorial'
-    - title: '_projects'
-      url: '/'
+    # - title: '_projects'
+    #  url: '/'
     - title: '_writing'
       url: '/writing/' #create page here that uses blog format but displaying only the writing category!
     - title: '_about'
