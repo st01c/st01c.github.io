@@ -3,9 +3,10 @@ title: "Digital Art as ‘Monetised Graphics:’ Enforcing Intellectual Property
 short_title: Digital Art as 'Monetised Graphics'
 date: "2018-03-1 19:17"
 category: writing
-tags: digital_art IP copyright blockchain
-featured_image: "/images/content/monetised.jpg/"
+description: ""
+featured_image: "/images/content/monetised.jpg"
 ---
+
 [Published](https://link.springer.com/article/10.1007/s13347-016-0243-1) (Open Access) in _Philosophy and Technology_ 31.1 (2018, first online in Nov. 2016), special issue edited by Mark Coeckelbergh, Quinn DuPont, Wessel Reijers.
 
 ### Abstract:

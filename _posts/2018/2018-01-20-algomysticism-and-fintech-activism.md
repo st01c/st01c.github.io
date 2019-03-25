@@ -2,7 +2,7 @@
 title: "Digital Art Between Algomysticism and Fintech Activism"
 short_title: Digital Art & Fintech Activism
 date: "2018-01-20 19:28"
-featured_image: "/images/content/moneylab-reader-2.png/"
+featured_image: "/images/content/moneylab-reader-2.png"
 tags: crypto digital_art
 category: writing
 ---

@@ -3,7 +3,7 @@ title: "Live Coding the Law: Improvisation, Code and Copyright"
 short_title: "Live Coding the Law"
 date: "2014-02-10 18:20"
 description:
-featured_image: "/images/content/live_coding.jpg/"
+featured_image: "/images/content/live_coding.jpg"
 category: writing
 tags:
 ---
