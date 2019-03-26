@@ -12,7 +12,9 @@ featured_image: "/images/content/basanta-print20.jpg"
 
 May 16, 2019, 17:00-19:00 / CRASSH, Cambridge University / Alison Richard Building, Seminar Room SG2, 7 West Road, Cambridge, CB3 9DT
 
-[Program](http://www.crassh.cam.ac.uk/programmes/digital-art):
+I will speak on research I'm undertaking for my upcoming monograph, _Digital Art and the Ends of Appropriation_, with a focus on emerging intellectual property issues, and discussion of recent art works by Adam Basanta, Tom White, and Robbie Barrat, among others.
+
+The full [program](http://www.crassh.cam.ac.uk/programmes/digital-art):
 - Carleigh Morgan (University of Cambridge)
 ‘Playing with Pixels: Digital Materiality in “Datamoshing”’
 - Steyn Bergs (Vrije Universiteit Amsterdam)
@@ -21,10 +23,6 @@ May 16, 2019, 17:00-19:00 / CRASSH, Cambridge University / Alison Richard Buildi
 ‘Disruptive Technologies? Queer Strategies of Resistance in the Age of Surveillance Capitalism'
 - Martin Zeilinger (Senior Lecturer in Media, Anglia Ruskin University)
 ‘Digital Art & AI: From Simple Generative Systems To the Externalisation of Agency’
-
----
-
-I will speak on research I'm undertaking for my upcoming monograph, _Digital Art and the Ends of Appropriation_, with a focus on emerging intellectual property issues, and discussion of recent art works by Adam Basanta, Tom White, and Robbie Barrat, among others.
 
 ---
 
