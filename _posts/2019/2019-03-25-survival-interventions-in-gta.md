@@ -1,5 +1,5 @@
 ---
-title: "Survival Interventions in GTA: On the Limits of Performance in Virtual Environments"
+title: "Survival Interventions in GTA & the Limits of Performance in Virtual Environments"
 short_title: "Survival Interventions in GTA"
 date: "2019-03-25"
 description:

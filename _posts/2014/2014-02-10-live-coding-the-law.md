@@ -1,5 +1,5 @@
 ---
-title: "Live Coding the Law: Improvisation, Code and Copyright"
+title: "Live Coding the Law: Improvisation, Code & Copyright"
 short_title: "Live Coding the Law"
 date: "2014-02-10 18:20"
 description:

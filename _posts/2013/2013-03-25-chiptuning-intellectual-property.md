@@ -1,5 +1,5 @@
 ---
-title: "Chiptuning Intellectual Property: Digital Culture Between Creative Commons and Moral Economy"
+title: "Chiptuning IP Between Creative Commons and Moral Economy"
 short_title: " "
 date: "2013-03-25"
 description:

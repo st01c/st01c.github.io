@@ -1,5 +1,5 @@
 ---
-title: "First as Snapshot, then as Decentralised Digital Asset"
+title: "First as Snapshot, Then as Decentralised Digital Asset"
 short_title: "First as Snapshot, then as Decentralised Digital Asset"
 date: "2018-10-15"
 description:

@@ -1,5 +1,5 @@
 ---
-title: 'Intellectual Property, Artificial Intelligence, and Digital Art'
+title: 'IP, AI, and Digital Art'
 short_title: IP & AI Issues in Contemporary Art
 date: 2019-03-20 00:00:00
 description:

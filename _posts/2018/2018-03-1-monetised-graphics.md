@@ -1,5 +1,5 @@
 ---
-title: "Digital Art as ‘Monetised Graphics:’ Enforcing Intellectual Property on the Blockchain"
+title: "Digital Art as ‘Monetised Graphics:’ Enforcing IP on the Blockchain"
 short_title: Digital Art as 'Monetised Graphics'
 date: "2018-03-1 19:17"
 category: writing
