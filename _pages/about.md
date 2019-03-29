@@ -1,5 +1,5 @@
 ---
-title: _Martin Zeilinger
+title: (◕‿◕)
 subtitle:
 description: About page, personal website Martin Zeilinger.
 featured_image:

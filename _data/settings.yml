@@ -12,6 +12,8 @@ menu_settings:
     #  url: '/'
     #- title: '_contact'
     #  url: '/contact'
+    # - title: '_test'
+    #  url: '/test'
     - title: '_news'
       url: '/news/'
     - title: '_teaching'
@@ -99,13 +101,13 @@ font_settings:
     small_size: 22
     medium_size: 26
     large_size: 30
-    weight: 200 #500
-    letter_spacing: -0.02
+    weight: 400 #500
+    letter_spacing: -0.01
   menu:
     small_size: 30
     medium_size: 14
-    large_size: 15
-    weight: 300 #500
+    large_size: 17
+    weight: 500
     letter_spacing: 0
   grid_item_title:
     small_size: 22
