@@ -13,7 +13,7 @@ My research interests include digital art, appropriation-based art practices, ex
 I am currently working on completing a monograph, tentatively titled ***Digital Art and the Ends of Appropriation***.
 
 ---
-_This website is quasi-permanently under construction – it is the outcome of my ongoing tinkering with Ruby, Liquid, YAML, Sass, Git and other coding tools on the open source web development platform [Jekyll](https://jekyllrb.com/). In case the site is currently unstable (or just difficult to navigate), here is a short list of a few upcoming and recent activities, and a link to an external site with copies of my of my [academic work](https://anglia.academia.edu/MZ)._
+_This website is quasi-permanently under construction – it is the outcome of my tinkering with open source coding tools such as Ruby, Liquid, YAML, Sass, and Git, and is built in [Jekyll](https://jekyllrb.com/). In case the site is currently misbehaving, here are some upcoming and recent activities & an external link to copies of my [academic work](https://anglia.academia.edu/MZ)._
 
 
 #### \_upcoming
