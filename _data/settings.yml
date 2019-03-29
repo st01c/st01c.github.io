@@ -30,7 +30,7 @@ menu_settings:
       url: '/' # url: '/blog/' #must be changed to root when it's the main site...
 
 footer_settings:
-  footer_tagline: Experimenting with Ruby/Liquid/YAML/Sass/Git/etc. in Jekyll
+  footer_tagline: MZ experimenting with Ruby/Liquid/YAML/Sass/Git/etc. in Jekyll
 
 grid_settings:
   overlay_opacity: 0.9
@@ -78,7 +78,7 @@ color_settings:
   text_medium_color: '#363d44' #'#6C7A89'
   text_light_color: '#ABB7B7'
   accent_color: '#ff074e' #'#4ecdc4' # link hover highlight, link underline, and highlight in nav
-  border_color: '#dddddd' #??
+  border_color: '#dddddd'
   overlay_background_color: '#DCDCDC' #'#669999' #'#4ecdc4' # grid hover color
   overlay_text_color: '#000000' #'#ffffff' # grid item text color
   overlay_accent_color: '#2A2F36' # ??
@@ -106,14 +106,14 @@ font_settings:
   menu:
     small_size: 30
     medium_size: 14
-    large_size: 17
+    large_size: 17 #15
     weight: 500
     letter_spacing: 0
   grid_item_title:
-    small_size: 22
+    small_size: 15 #22
     medium_size: 24
-    large_size: 28
-    weight: 300 #500
+    large_size: 25 #28
+    weight: 400 #500
     letter_spacing: -0.02
   grid_item_subtitle:
     small_size: 13

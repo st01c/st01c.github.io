@@ -32,9 +32,9 @@
 	position: relative;
 	display: block;
 
-	@include mq(tabletl) {
+	// @include mq(tabletl) { // << APPLIES ALL FOLLOWING RULES ALSO TO SMALLER SCREENS
 
-		&:hover {
+		//&:hover {
 
 			.listing-item__content {
 				opacity: 1;
@@ -45,9 +45,9 @@
 				opacity: 1;
 				@include translate(0,0);
 			}
-		}
+		//}
 	}
-}
+//} <<
 
 .listing-item__image {
 	width: 100%;
@@ -61,10 +61,11 @@
 	left: 0;
 	display: flex;
 	padding: 17px 20px;
-	background: rgba($overlay-background-color, $overlay-opacity);
+	background: rgba($overlay-background-color, 0.1); //$overlay-opacity);
 
 	opacity: 0;
 	visibility: hidden;
+
 	@include transition(all 0.3s ease-in-out);
 }
 
@@ -93,10 +94,18 @@
 
 .listing-item__title { // grid (full screen) title highlight when hover
 	color: $overlay-text-color;
+	background: white; // <<
+	padding-left: 2px; // <<
+	padding-right: 4px; // <<
+	border: $accent_color; // <<
+	border-style: inset; // <<
+	border-width: thin;
+	border-style: dashed;
 	// background-color: $accent_color; // <<< added line;
 	font-size: $grid-item-title-small;
 	font-weight: $grid-item-title-weight;
 	letter-spacing: $grid-item-title-spacing;
+	line-height: 102%; // <<
 
 	@include mq(tabletp) {
 		font-size: $grid-item-title-medium;
@@ -108,8 +117,17 @@
 }
 
 .listing-item__subtitle {
-	margin-top: 5px;
+	margin-top: -5px; // 5px;
 	color: rgba($overlay-text-color, 0.7);
+	background: white; // <<
+	padding-left: 1px; // <<
+	border-left: $accent_color; // <<
+	border-top: transparent; // <<
+	border-right: $accent_color; // <<
+	border-bottom: $accent_color; // <<
+	border-style: inset; // <<
+	border-width: thin;
+	border-style: dashed;
 	font-size: $grid-item-subtitle-small;
 	font-weight: $grid-item-subtitle-weight;
 	letter-spacing: $grid-item-subtitle-spacing;
