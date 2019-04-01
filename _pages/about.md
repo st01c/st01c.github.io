@@ -18,7 +18,7 @@ _This website is quasi-permanently under construction – it is the outcome of m
 
 #### \_upcoming
 
-“Rethinking Affordance,” a special issue of _Media Theory_, co-edited with Ashley Scarlett (ACAD, Calgary/CAN). Ongoing documentation and contributions linked to an exhibition and symposium on the same topic, organised at Akademie Solitude, Stuttgart/Germany (May/June 2018, can be found on [Schloss-Post][1])
+“Rethinking Affordance,” a 2019 special issue of the open access journal [_Media Theory_](http://mediatheoryjournal.org/), co-edited with Ashley Scarlett (ACAD, Calgary/CAN). Ongoing documentation and contributions linked to an exhibition and symposium on the same topic, organised at Akademie Solitude, Stuttgart/Germany (May/June 2018, can be found on [Schloss-Post][1])
 
 [1]: https:schloss-post.com
 

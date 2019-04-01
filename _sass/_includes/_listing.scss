@@ -97,10 +97,10 @@
 	background: white; // <<
 	padding-left: 2px; // <<
 	padding-right: 4px; // <<
-	border: $accent_color; // <<
-	border-style: inset; // <<
-	border-width: thin;
-	border-style: dashed;
+	//border: $accent_color; // <<
+	//border-style: inset; // <<
+	//border-width: thin;
+	//border-style: dashed;
 	// background-color: $accent_color; // <<< added line;
 	font-size: $grid-item-title-small;
 	font-weight: $grid-item-title-weight;
@@ -121,13 +121,13 @@
 	color: rgba($overlay-text-color, 0.7);
 	background: white; // <<
 	padding-left: 1px; // <<
-	border-left: $accent_color; // <<
-	border-top: transparent; // <<
-	border-right: $accent_color; // <<
-	border-bottom: $accent_color; // <<
-	border-style: inset; // <<
-	border-width: thin;
-	border-style: dashed;
+	//border-left: $accent_color; // <<
+	//border-top: transparent; // <<
+	//border-right: $accent_color; // <<
+	//border-bottom: $accent_color; // <<
+	//border-style: inset; // <<
+	//border-width: thin;
+	//border-style: dashed;
 	font-size: $grid-item-subtitle-small;
 	font-weight: $grid-item-subtitle-weight;
 	letter-spacing: $grid-item-subtitle-spacing;
