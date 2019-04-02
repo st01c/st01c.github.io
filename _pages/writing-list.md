@@ -4,9 +4,7 @@ subtitle:
 description: A plain list with all items in the 'writing' category.
 featured_image:
 ---
-_{{ page.description }}_
 
----
 2019:
 {% for post in site.posts %}
   {% if post.category == "writing" %}
