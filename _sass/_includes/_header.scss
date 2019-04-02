@@ -44,7 +44,7 @@
 	color: $text-dark-color;
 
 	&:hover {
-		color: $accent-color;
+		color: white //$accent-color;
 	}
 
 	@include mq(tabletp) {
@@ -197,7 +197,7 @@
 	padding: 10px 0;
 
 	&:hover {
-		color: $overlay-accent-color;
+		color: white; //$overlay-accent-color;
 	}
 
 	@include mq(tabletp) {
@@ -206,7 +206,7 @@
 		color: $text-dark-color;
 
 		&:hover {
-			color: $accent-color;
+			color: white; //$accent-color;
 		}
 	}
 
