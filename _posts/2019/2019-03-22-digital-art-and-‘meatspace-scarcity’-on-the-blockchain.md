@@ -4,7 +4,7 @@ short_title: "Meatspace Scarcity on the Blockchain"
 date: "2019-03-22"
 description: Curatorial essay for the exhibition Vertiginous Data at the South Korean National Museum of Modern Art
 category: news
-tags: crypto digital_art
+tagz: crypto, digital art, blockchain, copyright, curatorial essay
 featured_image: "/images/content/vertiginous-data-poster.png"
 ---
 

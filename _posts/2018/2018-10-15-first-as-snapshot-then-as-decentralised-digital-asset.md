@@ -4,7 +4,7 @@ short_title: "First as Snapshot, then as Decentralised Digital Asset"
 date: "2018-10-15"
 description:
 category: writing
-tags: crypto digital_art fintech photography
+tagz: crypto, digital art, fintech, photography, blockchain
 featured_image: "/images/content/kodakcoin.jpg"
 ---
 

@@ -4,7 +4,7 @@ short_title: Métic Action in Digital Culture
 date: "2017-10-10 19:51"
 featured_image: "/images/content/cunning.jpg"
 category: writing
-tags: nil
+tagz: cunning, biopower, metis, activism
 ---
 
 [Published](https://platformjmc.com/2017/08/08/vol-8-1-cunning-knowledge-and-media-technologies/) (Open Access) in _Platform Journal_ 8.1 (2017), in an open access special issue edited by Christopher O'Neill.

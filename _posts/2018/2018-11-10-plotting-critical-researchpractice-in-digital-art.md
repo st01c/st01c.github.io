@@ -4,7 +4,7 @@ short_title: " "
 date: "2018-11-10"
 description:
 category: writing
-tags:
+tagz: digital art, computer art, creative coding, research-practice 
 featured_image: "/images/content/parsing-digital.jpg"
 ---
 
