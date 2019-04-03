@@ -60,7 +60,7 @@
 	bottom: 0;
 	left: 0;
 	display: flex;
-	padding: 17px 20px;
+	padding: 17px 20px; // << changes position of item content info
 	background: rgba($overlay-background-color, 0.1); //$overlay-opacity);
 
 	opacity: 0;
