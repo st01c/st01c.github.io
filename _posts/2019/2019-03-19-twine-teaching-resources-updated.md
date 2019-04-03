@@ -1,6 +1,6 @@
 ---
-title: "Twine teaching resources updated"
-short_title: "Twine resources updated"
+title: "Twine teaching resources"
+short_title: "Twine resources"
 date: "2019-03-19"
 description:
 category: teaching
