@@ -15,7 +15,7 @@ I'm a member of the Steering Committee for the ['Re-' Interdisciplinary Research
 
 **CALL FOR PAPERS: Deadline for abstracts (300 words + refs) 15th April**
 
-**CONFERENCE: Tacit Engagement in the Digital Age**
+**CONFERENCE: Tacit Engagement in the Digital Age (June 26-28, Cambridge/UK)**
 
 Joint Conference by the ‘Re-‘ Interdisciplinary Network (CRASSH) and the AI & Society Journal
 
