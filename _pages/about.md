@@ -8,7 +8,7 @@ I am London-based interdisciplinary researcher, curator, and media practitioner.
 
 Currently I work as [Senior Lecturer in Media](https://www.anglia.ac.uk/people/martin-zeilinger) at Anglia Ruskin University (Cambridge/UK), and also serve as [curator](http://vectorfestival.org/) of the Vector Festival (Toronto/CAN).
 
-I can be reached at **martin [.] zeilinger [@] anglia.ac.uk** or through this [contact form](/contact).
+I can be reached through this [contact form](/contact) or at my institutional email, _martin [.] zeilinger [@] anglia.ac.uk_.
 
 My research interests include digital art, appropriation-based art practices, experimental uses of financial technologies in contemporary art, theories of cultural ownership and intellectual property, political economies of new media, live coding and creative computing, videogame culture, and experimental game art.
 
