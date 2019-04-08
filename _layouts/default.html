@@ -53,10 +53,22 @@
 	<style>{{ site.data.settings.advanced_settings.custom_styles }}</style>
 	{% endif %}
 
-	{% if site.data.settings.advanced_settings.analytics_code %}
+<!-- COMMENTING OUT THE ANALYTICS CODE INCLUSION AND INSERTING DIRECTLY
+	{% if site.data.settings.advanced_settings.analytics_code %} -->
 	<!-- Analytics Code -->
-	{{ site.data.settings.advanced_settings.analytics_code }}
-	{% endif %}
+	<!-- {{ site.data.settings.advanced_settings.analytics_code }}
+	{% endif %}-->
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137857238-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-137857238-1');
+	</script>
+<!-- END OF INSERTED GOOGLE ANALYTICS CODE-->
 
 	{% if site.data.settings.advanced_settings.header_js %}
 	<!-- Extra Header JS Code -->
