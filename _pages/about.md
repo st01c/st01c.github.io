@@ -8,15 +8,15 @@ I am London-based interdisciplinary researcher, curator, and media practitioner.
 
 Currently I work as [Senior Lecturer in Media](https://www.anglia.ac.uk/people/martin-zeilinger) at Anglia Ruskin University (Cambridge/UK), and also serve as [curator](http://vectorfestival.org/) of the Vector Festival (Toronto/CAN).
 
+At the moment I am working on completing a monograph, tentatively titled ***Digital Art and the Ends of Appropriation***, and co-editing, with Ashley Scarlett, a special issue entitled 'Rethinking Affordance' for _Media Theory_.
+
+My research interests include digital art, appropriation-based art practices, experimental uses of financial technologies in contemporary art, theories of cultural ownership and intellectual property, political economies of new media, live coding and creative computing, and aspects of experimental videogame culture.
+
 I can be reached through this [contact form](/contact) or at my institutional email, _martin [.] zeilinger [@] anglia.ac.uk_.
-
-My research interests include digital art, appropriation-based art practices, experimental uses of financial technologies in contemporary art, theories of cultural ownership and intellectual property, political economies of new media, live coding and creative computing, videogame culture, and experimental game art.
-
-I am currently working on completing a monograph, tentatively titled ***Digital Art and the Ends of Appropriation***.
 
 ---
 
-_This website is quasi-permanently under construction – it's the outcome of my tinkering with open source coding tools (such as Ruby, Liquid, YAML, Sass, and Git), and is built in [Jekyll](https://jekyllrb.com/). In case the site is misbehaving, here are some upcoming and recent activities & an external link to copies of my [academic work](https://anglia.academia.edu/MZ). (last update: {{ "now" | date_to_long_string }})_
+_This website is quasi-permanently under construction, and the outcome of my tinkering with open source coding tools (such as Ruby, Liquid, YAML, Sass, and Git), and is built in [Jekyll](https://jekyllrb.com/). In case the site is misbehaving, here are some upcoming/recent activities & an external link to copies of my [academic work](https://anglia.academia.edu/MZ). Last updated {{ "now" | date_to_long_string }})_
 
 ---
 

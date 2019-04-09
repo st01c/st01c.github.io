@@ -30,7 +30,7 @@ menu_settings:
       url: '/' # url: '/blog/' #must be changed to root when it's the main site...
 
 footer_settings:
-  footer_tagline: MZ experimenting with Ruby/Liquid/YAML/Sass/Git/etc. in Jekyll
+  footer_tagline: MZ experimenting with Ruby/Liquid/YAML/Sass/Git/etc. in Jekyll.
 
 grid_settings:
   overlay_opacity: 0.9
