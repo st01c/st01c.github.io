@@ -13,6 +13,8 @@ I am particularly interested in appropriative uses of emerging technologies, dev
 
 Thematically, past curatorial projects have focused on topics including artificial intelligence and generative, surveillance and privacy issues, critical engineering, among many others.
 
+---
+
 Here is a selection of curatorial projects and featured artists:
 
 #### 2019:
