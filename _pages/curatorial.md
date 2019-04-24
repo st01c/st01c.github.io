@@ -64,32 +64,58 @@ Vector Festival online exhibition, co-curated with Skot Deeming.
 **ELDERS**: _Alex Myers_  
 Vector Festival offsite installation, Loophole Gallery, co-curated with Skot Deeming.  
 
+---
+
 #### 2016:
 
-**4th Vector Game Art & New Media Festival**. Co-curated with Skot Deeming. Various locations, Toronto/CAN (February)
+**THE ALGORITHMIC IMAGINATION**: _Adam Donovan / Matteo Bittanti and Colleen Flaherty aka COLL.EO / Justine Lugli / Brent Watanabe_  
+Vector Festival flagship exhibition, co-curated with Skot Deeming, InterAccess Electronic Media Arts Centre, Toronto, July 7-August 13.  
+---  
+**Vector 2016 performances, screenings, and offsite events**: _Castle If / Dan Browne / Elenore Chesnutt / Kathleen Daniel / Karl Fousek / Davis Heslep / Kristin Lucas / A. Bill Miller / Samantha Noseworthy / Benjamin Nuel / Midi Onodera / Tasman Richardson / Bear Wit­ness / Michael Trommer and Eric Filion aka Spectral Sound System / Ip Yuk-Yiu_  
+Co-curated with Skot Deeming.  
+---  
+**LONDON CALLING: NEW FILM AND VIDEO WORKS**: _Jaimie Jenkinson / Deniz Johns and Karolina Raczynski / Neil Henderson / Jennifer Nightingale / Simon Payne / John Smith / Xiaowen Zhu_  
+Screening curated for the Regional Support Network screening series (organised by Clint Enns and Leslie Supnet), March 30, Cinecycle, Toronto/CAN  
+---  
+**Data Materialization Studio Graduate Artist Residency**: artist residency coordinated with Ashley Scarlett, Winter 2016, Toronto/CAN.
 
-[**The Algorithmic Imagination**](http://marjz.net/wp-content/uploads/2015/01/Rendered_Visible_Exploring_the_Limits_of-1.pdf). Vector Game Art & New Media Festival main exhibition. Co-curated with Skot Deeming, InterAccess Electronic Media Arts Centre, Toronto, July 7-August 13.
-
-[**London Calling: New Film and Video Works**](London Calling: New Film and Video Works), screening curated for the Regional Support Network screening series, organized by Clint Enns and Leslie Supnet, March 30, Cinecycle, Toronto/CAN
-
-**Data Materialization Studio Graduate Artist Residency**; residency coordinated with Ashley Scarlett, Winter 2016, Toronto/CAN.
+---
 
 #### 2015:
 
-**3rd Vector Game Art & New Media Festival**, February 18-22, Toronto (various locations). Co-curated and co-organized with Skot Deeming. (Flagship exhibition: [To Utility & Beyond. Interface Experiments in New Media and Game Art](http://www.vectorfestival.org/exhibition-to-utility-and-beyond-interface-experiments-in-new-media-and-game-art/).
+**[TO UTILITY AND BEYOND](http://vectorfestival.org/2015-exhibition-to-utility-and-beyond-interface-experiments-in-new-media-and-game-art/)**: _Connor Campbell / Kieran Nolan / Juliana Riska, Dorian Reunkrilerk, Loriane Stary, and Kim Boldt / Kara Stone and Nadine Lessio / Kim Hoang, Ben Swinden, Zachary Soares, and Hamish Lambert / Jochen Zeirzer_  
+Vector Festival Flagship exhibition, co-curated with Skot Deeming.  
+---  
+**VARIATIONS ON A THEME: COMPUTER MUSIC{S}**: _frAncis / Devon Hansen / JeffTheWorld_  
+Vector Festival performances, co-curated with Skot Deeming.
+
+---  
 
 #### 2014:
 
-**Vamos A La Playa**, Game Art Installation, @ Knave Kitchen, Toronto, June 20.
+**Vamos A La Playa**, Game art installations, curated for Knave Kitchen, Toronto, June 20.
 
-**2nd Vector Game Art & New Media Festival**, Toronto, Feb 19-23 (various locations). Co-curated and co-organized with Skot Deeming and Diana Poulsen.
-
-**Impedance: Games + Resistance**, @ InterAccess Media Arts Centre, Toronto. Co-curated with Skot Deeming and Diana Poulsen. Feb 8 to Feb 23.
-
-**Net.Work 2.0: A Game Art Survey Exhibition**, Videofag Gallery, Toronto. Co-curated with Skot Deeming and Diana Poulsen. Feb 19-23.
-
+**[IMPEDANCE: GAMES + RESISTANCE](http://vectorfestival.org/2014-impedance/)**: _Jim Munroe aka Molleindustria / Alex Myers / Kent Sheely / Lucas Pope / Soha El-Sabaawi / Martin Le Chevallier / Gordan Savicic / RuneStorm / Andy Campbell / Mez Breeze / Oscar Raby_  
+Vector Festival flagship exhibition, co-curated with Skot Deeming and Diana Poulsen.  
+---  
+**[NET.WORK 2.0: EMERGENCE AND EXPERIMENTATION](http://vectorfestival.org/2014-networks-2-0-emergence-experimentation-videofag/)**: _Chris Burke and Tamara Yadao aka FOCI+LOCI / Eric Powell / Brandon Edgar Allan / notendo / Eddo Stern / Jeff Thompson / Florent Deloison / James Kirkpatrick / Stephen Ascher / Connor Campbell, Corey Dean, and Jeremy Nir_  
+Co-curated at VideoFag Gallery (Toronto) with Skot Deeming and Diana Poulsen.  
+---  
+**VECTOR X PUNK ARCADE**: _Merrit Kopas / Ben Esposito aka Arcane Kids / Ilya Zarembsky / Benedikt Hummel and Marius Winter aka MajobBueno / Daniele Guevara / Jason Corace / Michael Wilde / Benedict Fritz / Simon Wiscombe_
+Co-organised with Skot Deeming and Diana Poulsen in cooperation with guest curators Lee Tusman and Sarah Brin.  
+---  
+**[MACHINIGLITCH](http://vectorfestival.org/2014-machiniglitch/)**: _Félicien Goguey & Benjamin Bartholet / Edouard Taufenbach / Florian Dieude / Chris Hawlett / Clint Enns / Entter and Goto80 / Mary Flanagan / Georgie Roxby Smith / Knut LSG Hybinette / Kent Sheely / Datatragedy / Victor Morales / Anita Fontaine / Jon Cates / Baden Pailthorpe_  
+Co-organised with Skot Deeming and Diana Poulsen in cooperation with guest curator Isabelle Arvers.  
+---  
+**CODE + CIRCUITS: AN ALGORAVE**: _Thesis Sahib / The Cybernetic Orchestra / Partytime! Hexcellent!_  
+Co-curated with Skot Deeming and Diana Poulsen.  
+---  
+**AVATAR ORCHESTRA METAVERSE**: Telematic sound performance, Co-curated with Skot Deeming and Diana Poulsen.  
+---    
 **Game Art Pop-up Exhibition**, @ Long Winter, The Great Hall, Toronto, Jan 10. Co-curated with Skot Deeming and Christine Kim.
+
+---
 
 #### 2013:
 
-- Satellite Event: Morton Feldman String Quartet No. 2, X Avant Music Festival VIII, “Experimentations in Silent Video Games,” @ OCAD U Graduate Gallery, Oct 12. Co-curated with Skot Deeming and Christine Kim.
+Satellite Event: Morton Feldman String Quartet No. 2, X Avant Music Festival VIII, “Experimentations in Silent Video Games,” @ OCAD U Graduate Gallery, Oct 12. Co-curated with Skot Deeming and Christine Kim.
