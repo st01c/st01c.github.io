@@ -5,13 +5,13 @@ description:
 featured_image:
 ---
 
-I have been curator of the Toronto-based Vector Festival since 2014, and have been involved with other curatorial projects and commissions in Canada, Germany, Austria, and the UK.
+I have been co-curator of the Toronto-based [Vector Festival](http://vectorfestival.org/) since 2014. In 2019, I joined the curatorial collective of the [NEoN Festival](https://northeastofnorth.com/) in Dundee, Scotland. Since roughly 2005, I have also been involved in other curatorial projects and commissions in Canada, Germany, Austria, and the UK.
 
 My curatorial practice engages broadly with experimental media art, often focusing on digital art, software art,  generative art, and experimental uses of video game technologies.
 
-I am particularly interested in appropriative uses of emerging technologies, developing new exhibition formats for digital work, and exploring intersections between creative and critical practice.
+I am particularly interested in appropriative uses of emerging technologies, in developing new exhibition formats for digital work, and in exploring intersections between creative and critical practice.
 
-Thematically, past curatorial projects have focused on topics including artificial intelligence and generative, surveillance and privacy issues, critical engineering, among many others.
+Thematically, past curatorial projects have focused on topics including artificial intelligence and generative art, surveillance and privacy issues, game art, and critical engineering, among many others.
 
 ---
 
@@ -19,16 +19,16 @@ Here is a selection of curatorial projects and featured artists:
 
 #### 2019:
 
-**NEoN Festival**. Co-curator. Dundee, Scotland/UK.
+**NEoN Festival**. _Details TBA_. Member of curatorial collective, curation of an online exhibition. Dundee, Scotland/UK.
 
-**7th Vector New Media Art Festival**. Co-curated with Katie Micak. Various events and locations TBA, Toronto/CAN (July-August).
+**Speculative Ecologies: Media Art at the Anthropocenic Precipice (7th Vector New Media Art Festival**. Co-curated with Katie Micak. Various events and locations TBA, Toronto/CAN (July-August).
 
 ---
 
 #### 2018:
 
 **RETHINKING AFFORDANCE**: _Bryan Cera / Foci+Loci / FRAUD / Sebastian Schmieg / Situated Systems / Jol Thompson / Martin Zeilinger_  
- Co-curated with Ashley Scarlett, Akademie Schloss Solitude, Stuttgart/GER, (May-June).  
+Co-curated with Ashley Scarlett, Akademie Schloss Solitude, Stuttgart/GER, (May-June).  
 ---  
 **BORN DIGITAL**: _Adam Basanta / A.M. Darke / Joseph DeLappe / Judith Doyle / Ann Hirsch / Chris Kerich / Lu Yang_  
 Vector Festival flagship exhibition, co-curated with Katie Micak. InterAccess Media Art Center, Toronto/CAN (July-August).  
