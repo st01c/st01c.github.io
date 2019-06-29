@@ -1,5 +1,5 @@
 ---
-title: _selected curatorial work
+title: _curatorial work
 subtitle:
 description:
 featured_image:
