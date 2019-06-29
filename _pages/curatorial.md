@@ -5,7 +5,7 @@ description:
 featured_image:
 ---
 
-I have been co-curator of the Toronto-based [Vector Festival](http://vectorfestival.org/) since 2014. In 2019, I joined the curatorial collective of the [NEoN Festival](https://northeastofnorth.com/) in Dundee, Scotland. Since roughly 2005, I have also been involved in other curatorial projects and commissions in Canada, Germany, Austria, and the UK.
+I have been co-curator of the Toronto-based [Vector Festival](http://vectorfestival.org/) since 2013. In 2019, I joined the curatorial collective of the [NEoN Festival](https://northeastofnorth.com/) in Dundee, Scotland. Since roughly 2005, I have been involved in many other curatorial projects in Canada, Germany, Austria, and the UK.
 
 My curatorial practice engages broadly with experimental media art, often focusing on digital art, software art,  generative art, and experimental uses of video game technologies.
 
@@ -15,60 +15,65 @@ Thematically, past curatorial projects have focused on topics including artifici
 
 ---
 
-Here is a selection of curatorial projects and featured artists:
-
 #### 2019:
 
-**NEoN Festival**. _Details TBA_. Member of curatorial collective, curation of an online exhibition. Dundee, Scotland/UK.
+[**NEoN Festival**](https://northeastofnorth.com/theme/). _Online exhibition. Details TBA_. Dundee, Scotland/UK.
 
-**Speculative Ecologies: Media Art at the Anthropocenic Precipice (7th Vector New Media Art Festival**. Co-curated with Katie Micak. Various events and locations TBA, Toronto/CAN (July-August).
+[**FUTURE RELICS**](https://interaccess.org/exhibition/future-relics). _Anna Eyler / Aksel Haagensen / Lisa Jackson / Raquel Meyers / Matthew Plummer-Fernandez / Scenocosme (Grégory Lasserre + Anaïs met den Ancxt) / Jeff Thompson._  
+Exhibition, Inter/Access Gallery, Toronto. Part of 'Speculative Ecologies: Media Art at the Anthropocenic Precipice (7th Vector New Media Art Festival') Co-curated with Katie Micak. (July-August).  
+
+[**THE GREAT DERANGEMENT**](https://interaccess.org/exhibition/great-derangement). _Iodine Dynamics / Brianna Lowe / Kris Pierce / Zeesy Powers._  
+Exhibition, Electric Perfume, Toronto. Part of 'Speculative Ecologies: Media Art at the Anthropocenic Precipice (7th Vector New Media Art Festival') Co-curated with Katie Micak. (July).  
+
+[**LOCAL HOST: POST-HUMAN MEDIA ARTS**](https://interaccess.org/exhibition/local-host-post-human-media-arts). _John Ayliff / Matt DesLauriers / Droqen / Nick Montfort / Vera Sebert._  
+Online exhibition. Part of 'Speculative Ecologies: Media Art at the Anthropocenic Precipice (7th Vector New Media Art Festival') Co-curated with Katie Micak. (July).  
 
 ---
 
 #### 2018:
 
-**RETHINKING AFFORDANCE**: _Bryan Cera / Foci+Loci / FRAUD / Sebastian Schmieg / Situated Systems / Jol Thompson / Martin Zeilinger_  
+[**RETHINKING AFFORDANCE**](http://www.akademie-solitude.de/en/events/exhibition-openings~no3921/): _Bryan Cera / Foci+Loci / FRAUD / Sebastian Schmieg / Situated Systems / Jol Thompson / Martin Zeilinger_  
 Co-curated with Ashley Scarlett, Akademie Schloss Solitude, Stuttgart/GER, (May-June).  
----  
-**BORN DIGITAL**: _Adam Basanta / A.M. Darke / Joseph DeLappe / Judith Doyle / Ann Hirsch / Chris Kerich / Lu Yang_  
-Vector Festival flagship exhibition, co-curated with Katie Micak. InterAccess Media Art Center, Toronto/CAN (July-August).  
----  
-**LOCAL HOST 2018: SUB/HYPER/TEXT**: _Sarah Friend / Soo Jin Rho / Timo Kahlen / Dina Kelbermann / Amanda Low_  
+
+[**BORN DIGITAL**](https://interaccess.org/exhibition/born-digital): _Adam Basanta / A.M. Darke / Joseph DeLappe / Judith Doyle / Ann Hirsch / Chris Kerich / Lu Yang_  
+Vector Festival flagship exhibition, co-curated with Katie Micak. Inter/Access Media Art Center, Toronto/CAN (July-August).  
+
+[**LOCAL HOST 2018: SUB/HYPER/TEXT**](https://interaccess.org/exhibition/local-host-2018-subhypertext) _Sarah Friend / Soo Jin Rho / Timo Kahlen / Dina Kelbermann / Amanda Low_  
 Vector Festival online exhibition, co-curated with Katie Micak.  
----  
-**ECSTASY // NORMAL 002**: _Tobias Williams_  
+
+[**ECSTASY // NORMAL 002**](https://interaccess.org/exhibition/ecstasynormal-002) _Tobias Williams_  
 Vector Festival offsite installation, co-curated with Katie Micak.  
----  
-**INNER WORKINGS**: _Adam Basanta / Afaq Ahmed Karadia / Adam Tindale / Micha Cardenas_  
+
+[**INNER WORKINGS**](https://interaccess.org/event/2018/inner-workings-performance): _Adam Basanta / Afaq Ahmed Karadia / Adam Tindale / Micha Cardenas_  
 Vector Festival performances, co-curated with Katie Micak.  
----  
-**ART ON THE SCREENS**: _David Blandy / Clive Holden / Susanna Flock / Nadine Lessio_  
+
+[**ART ON THE SCREENS**](https://interaccess.org/event/2018/art-screens): _David Blandy / Clive Holden / Susanna Flock / Nadine Lessio_  
 Vector Festival offsite screening, co-curated with Katie Micak.  
 
 ---
 
 #### 2017:
 
-**DAY ZERO: VOIGHT-KAMPFF**: _Peter Rahul / Marta Di Francesco / Tillmann Ohm / Udit Mahajan_  
+[**DAY ZERO: VOIGHT-KAMPFF**](http://vectorfestival.org/events/day-zero-voight-kampff/) _Peter Rahul / Marta Di Francesco / Tillmann Ohm / Udit Mahajan_  
 Vector Festival pre-opening screening and social, co-curated with Skot Deeming.  
 ---  
-**PATTERN RECOGNITION**: _Ben Bogart / Henry Driver / Jordan Shaw / Paolo Pedercini aka Molleindustria_  
-Vector Festival flagship exhibition, co-curated with Skot Deeming.  
+[**PATTERN RECOGNITION**](http://vectorfestival.org/2017-pattern-recognition/) _Ben Bogart / Henry Driver / Jordan Shaw / Paolo Pedercini aka Molleindustria_  
+Vector Festival flagship exhibition, co-curated with Skot Deeming. (2017 Vector Festival [documentation](http://vectorfestival.org/festival-documentation-2017/))  
 ---  
-**SIGNAL / SPACE**: _Tasman Richardson / Chris Burke and Tamara Yadao aka Foci+Loci / Gabe Knox / Daniel Zabawa_  
+[**SIGNAL / SPACE**](http://vectorfestival.org/events/signal-space-performance/) _Tasman Richardson / Chris Burke and Tamara Yadao aka Foci+Loci / Gabe Knox / Daniel Zabawa_  
 Vector Festival performances, co-curated with Skot Deeming.  
 ---  
-**LOCAL HOST**: _Tanja Vujinovic / Hannah Epstein / Alex Myers / Sagan Yee / Jasmeet Sidhu_  
+[**LOCAL HOST**](http://vectorfestival.org/events/local-host-online-exhibition/) _Tanja Vujinovic / Hannah Epstein / Alex Myers / Sagan Yee / Jasmeet Sidhu_  
 Vector Festival online exhibition, co-curated with Skot Deeming.  
 ---  
-**ELDERS**: _Alex Myers_  
+[**ELDERS**](http://vectorfestival.org/events/signal-space-performance/) _Alex Myers_  
 Vector Festival offsite installation, Loophole Gallery, co-curated with Skot Deeming.  
 
 ---
 
 #### 2016:
 
-**THE ALGORITHMIC IMAGINATION**: _Adam Donovan / Matteo Bittanti and Colleen Flaherty aka COLL.EO / Justine Lugli / Brent Watanabe_  
+[**THE ALGORITHMIC IMAGINATION**](http://vectorfestival.org/2016-the-algorithmic-imagination/) _Adam Donovan / Matteo Bittanti and Colleen Flaherty aka COLL.EO / Justine Lugli / Brent Watanabe_  
 Vector Festival flagship exhibition, co-curated with Skot Deeming, InterAccess Electronic Media Arts Centre, Toronto, July 7-August 13.  
 ---  
 **Vector 2016 performances, screenings, and offsite events**: _Castle If / Dan Browne / Elenore Chesnutt / Kathleen Daniel / Karl Fousek / Davis Heslep / Kristin Lucas / A. Bill Miller / Samantha Noseworthy / Benjamin Nuel / Midi Onodera / Tasman Richardson / Bear Wit­ness / Michael Trommer and Eric Filion aka Spectral Sound System / Ip Yuk-Yiu_  
