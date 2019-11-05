@@ -4,7 +4,7 @@ subtitle:
 description: About page, personal website Martin Zeilinger.
 featured_image:
 ---
-I am Dundee-based interdisciplinary researcher, curator, and media practitioner.
+I am an interdisciplinary researcher, curator, and media practitioner based in Dundee, Scotland.
 
 Currently I work as [Senior Lecturer in Computational Arts & Technology Media](https://rke.abertay.ac.uk/en/persons/martin-zeilinger) at Abertay University (Dundee/Scotland). I am also a co-curator for [Vector Festival](http://vectorfestival.org/) (Toronto) and [NEoN Festival](https://northeastofnorth.com/) (Dundee).
 
