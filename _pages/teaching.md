@@ -7,38 +7,32 @@ featured_image:
 
 #### Current teaching:
 
-At Anglia Ruskin University\'s Faculty of Arts, Humanities and Social Sciences, I teach on subjects including media theory, media arts, creative computing, and law and culture. I am module leader (and in most cases module tutor) for the following classes:
+At Abertay University, I am teaching in the Games and Art Division.
 
-- **Digital Media Theory**
-- **Digital Media Practice and Creative Computing**
-- **Law, Culture and Technology**
-- **Media and Technology**
-- **Creative Publishing**
-- **Introduction to Desktop Publishing**
-
----
-
-_Modules not currently taught:_
-
-- Theorising the Global Information Age
-- Media and Politics
+In previous roles at other institutions, I have taught on subjects including media theory, media arts, creative computing, and law and culture. Taught modules have included:
 
 ---
 
 #### Previously taught:
 
-_In previous academic posts, I have designed and/or taught the following modules/courses:_
 
-- **Digital Texts** (ENGL4B05), Summer 2013, Winter 2014-2015, Faculty of Liberal Arts, Ontario College of Art & Design (OCAD)
-- **Introduction to Game Studies** (VISM2B15), Fall 2014 Faculty of Liberal Arts, Ontario College of Art & Design (OCAD)
-- **Cinematography, Sound, Story & Character Integration** (GAME55586), Fall 2014, Postgraduate Game Level Design Program, Faculty of Animation, Arts & Design, Sheridan College
-- **Law, Culture and Technology** (CCT206), Summers 2010-2014, Communication, Culture and Information Technology Program (CCIT), University of Toronto at Mississauga
-- **Theoretical Approaches to Media & Culture** (CMCT 6100), Winter 2013, MA/PhD Seminar, Graduate Program in Communication and Culture, York University
-- **Owning Culture** (CMCT 6318), Fall 2012, MA/PhD Seminar, Graduate Program in Communication and Culture, York University
-- **Introduction to the Study of Modern Culture** (CUST1000J), Winter 2011, Cultural Studies Department, Trent University
-- **Surveillance Culture** (VIC410), Winter 2010 Literary Studies Program, Victoria College, University of Toronto
-- **Mixed Media and the Copy** (Special Topics Seminar II, VIC301), Fall 2008 & 2010 Literary Studies Program, Victoria College, University of Toronto
-- **Authorship and Fragmentation** (Special Topics Seminar I, VIC300), Fall 2009 Victoria College, University of Toronto
+- _Digital Media Theory_ (ARU, Cambridge/UK)
+- _Digital Media Practice and Creative Computing_ (ARU, Cambridge/UK)
+- _Law, Culture and Technology_ (ARU, Cambridge/UK)
+- _Media and Technology_ (ARU, Cambridge/UK)
+- _Introduction to Desktop Publishing_ (ARU, Cambridge/UK)
+- _Theorising the Global Information Age_ (ARU, Cambridge/UK)
+- _Media and Politics_ (ARU, Cambridge/UK)
+- _Digital Texts_ (OCAD University, Toronto/CAN)
+- _Introduction to Game Studies_ (OCAD University, Toronto/CAN)
+- _Cinematography, Sound, Story & Character Integration_ (Faculty of Animation, Arts & Design, Sheridan College, Toronto/CAN)
+- _Law, Culture and Technology_ (Communication, Culture and Information Technology Program, University of Toronto at Mississauga
+- _Theoretical Approaches to Media & Culture_ (Graduate Program in Communication and Culture, York University, Toronto/CAN)
+- _Owning Culture_ (Graduate Program in Communication and Culture, York University, Toronto/CAN)
+- _Introduction to the Study of Modern Culture_ (Cultural Studies Department, Trent University, Peterborough/CAN)
+- _Surveillance Culture_ (Victoria College, University of Toronto)
+- _Mixed Media and the Copy_ (Victoria College, University of Toronto)
+- _Authorship and Fragmentation_ (Victoria College, University of Toronto)
 
 ---
 

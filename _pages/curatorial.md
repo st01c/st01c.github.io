@@ -5,7 +5,7 @@ description:
 featured_image:
 ---
 
-I have been co-curator of the Toronto-based [Vector Festival](http://vectorfestival.org/) since 2013. In 2019, I joined the curatorial collective of the [NEoN Festival](https://northeastofnorth.com/) in Dundee, Scotland. Since roughly 2005, I have been involved in many other curatorial projects in Canada, Germany, Austria, and the UK.
+I have been co-curator of the Toronto-based [Vector Festival](http://vectorfestival.org/) since 2014. In 2019, I joined the curatorial collective of the [NEoN Festival](https://northeastofnorth.com/) in Dundee, Scotland. Since roughly 2005, I have been involved in a number of other curatorial projects in Canada, Germany, Austria, and the UK.
 
 My curatorial practice engages broadly with experimental media art, often focusing on digital art, software art,  generative art, and experimental uses of video game technologies.
 
@@ -17,7 +17,7 @@ Thematically, past curatorial projects have focused on topics including artifici
 
 #### 2019:
 
-[**NEoN Festival**](https://northeastofnorth.com/theme/). _Online exhibition. Details TBA_. Dundee, Scotland/UK.
+[**NEoN Festival**](https://northeastofnorth.com/event/online-exhibition/). _Sous le web, la plage! (Online exhibition)_. Dundee, Scotland/UK.
 
 [**FUTURE RELICS**](https://interaccess.org/exhibition/future-relics). _Anna Eyler / Aksel Haagensen / Lisa Jackson / Raquel Meyers / Matthew Plummer-Fernandez / Scenocosme (Grégory Lasserre + Anaïs met den Ancxt) / Jeff Thompson._  
 Exhibition, Inter/Access Gallery, Toronto. Part of 'Speculative Ecologies: Media Art at the Anthropocenic Precipice (7th Vector New Media Art Festival') Co-curated with Katie Micak. (July-August).  

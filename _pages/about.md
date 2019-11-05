@@ -4,15 +4,15 @@ subtitle:
 description: About page, personal website Martin Zeilinger.
 featured_image:
 ---
-I am London-based interdisciplinary researcher, curator, and media practitioner.
+I am Dundee-based interdisciplinary researcher, curator, and media practitioner.
 
-Currently I work as [Senior Lecturer in Media](https://www.anglia.ac.uk/people/martin-zeilinger) at Anglia Ruskin University (Cambridge/UK), and also serve as [curator](http://vectorfestival.org/) of the Vector Festival (Toronto/CAN).
+Currently I work as [Senior Lecturer in Computational Arts & Technology Media](https://rke.abertay.ac.uk/en/persons/martin-zeilinger) at Abertay University (Dundee/Scotland). I am also a co-curator for [Vector Festival](http://vectorfestival.org/) (Toronto) and [NEoN Festival](https://northeastofnorth.com/) (Dundee).
 
-At the moment I am working on completing a monograph, tentatively titled ***Digital Art and the Ends of Appropriation***, and co-editing, with Ashley Scarlett, a special issue entitled 'Rethinking Affordance' for _Media Theory_.
+I am currently working on completing two book projects, one on appropriation tactics in digital art, the other on AI art and agency. Recently, I have finished co-editing, with Ashley Scarlett, a special issue of the journal _Media Theory_ entitled ['Rethinking Affordance'](http://journalcontent.mediatheoryjournal.org/index.php/mt/issue/view/4).
 
-My research interests include digital art, appropriation-based art practices, experimental uses of financial technologies in contemporary art, theories of cultural ownership and intellectual property, political economies of new media, live coding and creative computing, and aspects of experimental videogame culture.
+My research interests include digital art, appropriation-based art practices, experimental uses of financial technologies in contemporary art, issues of agency in emerging AI technologies, theories of cultural ownership and intellectual property, live coding and creative computing, and various aspects of experimental videogame culture.
 
-I can be reached through this [contact form](/contact) or at my institutional email, _martin [.] zeilinger [@] anglia.ac.uk_.
+I can be reached through this [contact form](/contact) or at my institutional email, _m [.] zeilinger [@] abertay.ac.uk_.
 
 ---
 
@@ -20,13 +20,14 @@ _This website is quasi-permanently under construction, and the outcome of my tin
 
 ---
 
-#### \_upcoming
+// #### \_upcoming
 
-“Rethinking Affordance,” a 2019 special issue of the open access journal [_Media Theory_](http://mediatheoryjournal.org/), co-edited with Ashley Scarlett (ACAD, Calgary/CAN). Ongoing documentation and contributions linked to an exhibition and symposium on the same topic, organised at Akademie Solitude, Stuttgart/Germany (May/June 2018, can be found on [Schloss-Post][1])
-
-[1]: https:schloss-post.com
 
 #### \_recently published:
+
+“Rethinking Affordance,” a special issue of the open access journal [_Media Theory_](http://journalcontent.mediatheoryjournal.org/index.php/mt/issue/view/4), co-edited with Ashley Scarlett (ACAD, Calgary/CAN). Documentation and contributions linked to an exhibition and symposium on the same topic, organised at Akademie Solitude, Stuttgart/Germany (May/June 2018), can be found on [Schloss-Post][1].
+
+[1]: https:schloss-post.com
 
 “[Survival Interventions in GTA: on the Limits of Performance in Virtual Environments](/blog/survival-interventions-in-gta.html),” _Video Game Art Reader 2_ (Feb 2019)
 
