@@ -4,11 +4,11 @@ subtitle:
 description: About page, personal website Martin Zeilinger.
 featured_image:
 ---
-I am based in Dundee, Scotland, working as an interdisciplinary researcher, curator, and media practitioner.
+I'm an interdisciplinary new media researcher, curator, and practitioner based in Dundee, Scotland, where I work as [Senior Lecturer in Computational Arts & Technology Media](https://rke.abertay.ac.uk/en/persons/martin-zeilinger) at Abertay University (Dundee/Scotland).
 
-Currently I work as [Senior Lecturer in Computational Arts & Technology Media](https://rke.abertay.ac.uk/en/persons/martin-zeilinger) at Abertay University (Dundee/Scotland). I am also a co-curator for [Vector Festival](http://vectorfestival.org/) (Toronto) and [NEoN Festival](https://northeastofnorth.com/) (Dundee).
+I am also a co-curator for [Vector Festival](http://vectorfestival.org/) (Toronto) and [NEoN Festival](https://northeastofnorth.com/) (Dundee).
 
-I am currently working on completing two book projects, one on appropriation tactics in digital art, the other on AI art and agency. Recently, I have finished co-editing, with Ashley Scarlett, a special issue of the journal _Media Theory_ entitled ['Rethinking Affordance'](http://journalcontent.mediatheoryjournal.org/index.php/mt/issue/view/4).
+Currently I am working on two main publication projects, one on appropriation tactics in digital art, the other on AI art and agency. I've recently finished co-editing (with [Ashley Scarlett](https://ashleyscarlett.com/)) a special issue of the journal _Media Theory_ entitled ['Rethinking Affordance'](http://journalcontent.mediatheoryjournal.org/index.php/mt/issue/view/4).
 
 My research interests include digital art, appropriation-based art practices, experimental uses of financial technologies in contemporary art, issues of agency in emerging AI technologies, theories of cultural ownership and intellectual property, live coding and creative computing, and various aspects of experimental videogame culture.
 
