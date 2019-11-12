@@ -8,15 +8,17 @@ After many years in Vienna, Toronto, and London, I've recently taken up a resear
 
 My research interests include digital art, appropriation-based art practices, emerging technologies in relation to contemporary art (specifically fintech, AI, distributed computing), theories of cultural ownership and intellectual property, and various aspects of experimental video game culture.
 
+Most of my work focuses on contemporary art practices in relation to aesthetic and philosophical concepts such as authorship, creativity, originality, agency, and ownership – often exploring how these concepts are legally and/or algorithmically encoded in service of capital.
+
 I am currently working on two main publication projects – one on appropriation tactics in digital art, the other on AI art and questions of creative agency.
 
-In addition to research and an interest in live coding and creative coding, I am involved in curatorial and activist projects. This includes the Toronto-based [Vector Festival](http://vectorfestival.org/), which I have co-curated since 2013, and frequent collaborations with [MoneyLab](https://networkcultures.org/moneylab/) and [Furtherfield](http://www.furtherfield.org/). Recently, I have also joined the curatorial collective for [NEoN Festival](https://northeastofnorth.com/) here in Dundee.
+In addition to research and tinkering with live coding and creative computing, I am involved in curatorial and activist projects. This includes the Toronto-based [Vector Festival](http://vectorfestival.org/), which I have co-curated since 2013, and frequent collaborations with [MoneyLab](https://networkcultures.org/moneylab/) and [Furtherfield](http://www.furtherfield.org/). Recently, I have also joined the curatorial collective for [NEoN Festival](https://northeastofnorth.com/) here in Dundee.
 
 I can be reached through this [contact form](/contact) or at my institutional email, _m [.] zeilinger [@] abertay.ac.uk_.
 
 ---
 
-_This website is quasi-permanently under construction, and the outcome of my tinkering with open source coding tools (Ruby, Liquid, YAML, Sass, and Git), and is built in [Jekyll](https://jekyllrb.com/). In case the site is misbehaving, here are some recent activities & an external link to copies of my [academic work](https://anglia.academia.edu/MZ). Last updated {{ "now" | date_to_long_string }})_
+_This website is quasi-permanently under construction, and built with various open source tools (Jekyll, Ruby, Liquid, YAML, Sass, Git). In case the site is misbehaving, here is an external link to copies of most of my [publications](https://anglia.academia.edu/MZ). Last updated {{ "now" | date_to_long_string }})_
 
 ---
 
