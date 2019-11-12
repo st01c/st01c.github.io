@@ -9,7 +9,7 @@ featured_image: "/images/content/PechaKuchaDundee.jpg"
 ---
 ![](/images/content/PechaKuchaDundee.jpg)
 
-I was invited to give a Pecha Kucha talk on AI art and issues of creative agency as part of the 2019 NEoN Festival in Dundee.
+I was invited to give a Pecha Kucha talk on AI art and creative agency as part of the 2019 NEoN Festival in Dundee.
 
 If you are familiar with the format, you'll know that this means speaking incredibly fast for six a half minutes, racind through 20 slides at a pace of 20 seconds each.
 
