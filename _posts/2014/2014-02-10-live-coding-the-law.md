@@ -8,7 +8,7 @@ category: writing
 tagz: music, live coding, IP, copyright
 ---
 
-[Published][1] in _Computer Music Journal_ 38:1 (2014), special issue edited by  Alex McLean, Julian Rohrhuber, and Nick Collins
+[Published][1] in _Computer Music Journal_ 38:1 (2014), in a special issue edited by  Alex McLean, Julian Rohrhuber, and Nick Collins
 
 [1]: https://www.academia.edu/5259067/Live_Coding_the_Law_Improvisation_Code_and_Copyright
 
