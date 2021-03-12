@@ -4,17 +4,15 @@ subtitle:
 description: About page, personal website Martin Zeilinger.
 featured_image:
 ---
-After many years in Vienna, Toronto, and London, I've recently taken up a research and teaching position in Dundee, where I now work as [Senior Lecturer in Computational Arts & Technology](https://rke.abertay.ac.uk/en/persons/martin-zeilinger).
+After many years in Vienna, Toronto, and London, I' currently based in Dundee, Scotland, where I now hold a research and teaching position as [Senior Lecturer in Computational Arts & Technology](https://rke.abertay.ac.uk/en/persons/martin-zeilinger) at Abertay University.
 
-My research interests include digital art, appropriation-based art practices, emerging technologies in relation to contemporary art (specifically fintech, AI, distributed computing), theories of cultural ownership and intellectual property, and various aspects of experimental video game culture.
+Much of my current work focuses on artistic and activist experimentation with emerging technologies – specifically artificial intelligence and distributed ledger technologies (aka, the blockchain and 'crypto art'). This frames a broader interest in digital art, appropriation-based art practices, theories of cultural ownership and intellectual property, political economies of new media, and aspects of experimental videogame culture.
 
-Most of my work focuses on contemporary art practices in relation to aesthetic and philosophical concepts such as authorship, creativity, originality, agency, and ownership – often exploring how these concepts are legally and/or algorithmically encoded in service of capital.
+A common thread running through many of my activities is the exploration of how concepts such as authorship, creativity, originality, agency, and ownership are reshaped and reconfigured in emerging tech contexts; how these concepts become legally and/or algorithmically encoded in service of capital; and how digital artist/activist communities respond to these developments.
 
-I am currently working on two main publication projects – one on appropriation tactics in digital art, the other on AI art and questions of creative agency.
+Aside from research, teaching, and tinkering with creative coding, I am also involved in a number of curatorial activities. The most long-running of these is the Toronto-based [Vector Festival](http://vectorfestival.org/), which I have co-curated since 2014.
 
-In addition to research and tinkering with live coding and creative computing, I am involved in curatorial and activist projects. This includes the Toronto-based [Vector Festival](http://vectorfestival.org/), which I have co-curated since 2013, and frequent collaborations with [MoneyLab](https://networkcultures.org/moneylab/) and [Furtherfield](http://www.furtherfield.org/). Recently, I have also joined the curatorial collective for [NEoN Festival](https://northeastofnorth.com/) here in Dundee.
-
-I can be reached through this [contact form](/contact) or at my institutional email, _m [.] zeilinger [@] abertay.ac.uk_.
+I can be reached through [Twitter](https://twitter.com/mrtnzlngr), this [contact form](/contact) or at my institutional email, _m [.] zeilinger [@] abertay.ac.uk_.
 
 ---
 
@@ -22,8 +20,14 @@ _This website is quasi-permanently under construction, and built with various op
 
 ---
 
+#### \_forthcoming:
 
-#### \_recently published:
+A monograph on AI art, creative agency, and intellectual property issues (Meson Press 2021)
+
+“‘Chaotic Lawful’: Teaching Videogames in a Licensing and Permissions Lacuna” (with Darshana Jayemanne), _Journal of Cinema and Media Studies_ (special issue: 'Copyright Issues in the COVID-19 Pandemic;'' edited by Kirsten Thompson and Brendan Kredell) (2021)
+
+
+#### \_latest publications:
 
 “Rethinking Affordance,” a special issue of [_Media Theory_](http://journalcontent.mediatheoryjournal.org/index.php/mt/issue/view/4), co-edited with Ashley Scarlett (Alberta University of the Arts, Calgary/CAN). Documentation and contributions linked to an exhibition and symposium on the same topic, organised at Akademie Solitude, Stuttgart/Germany (May/June 2018), can be found on [Schloss-Post][1].
 
