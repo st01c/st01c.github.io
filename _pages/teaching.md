@@ -1,20 +1,27 @@
 ---
 title: _teaching
 subtitle:
-description: A static site with some information regarding my teaching activities.
+description: Information regarding my teaching activities.
 featured_image:
 ---
 
 #### Current teaching:
 
-At Abertay University, I am teaching in the Games and Art Division.
+At Abertay University's [School for Design and Informatics](https://www.abertay.ac.uk/schools/school-of-design-and-informatics/), I am currently involved in teaching the following:
 
-In previous roles at other institutions, I have taught on subjects including media theory, media arts, creative computing, and law and culture. Taught modules have included:
+- _ART308_ **Critical Studies**
+- _ART404_ **Honours Project**
+- _ART405_ **Honours Project Proposal and Development**
+- _DES104_ **Game Studies and Criticism**
+- _DES505_ **Innovation and Professional practice**
+
+Supervision inquiries from prospective doctoral students in all of my areas of interest are welcome (specifically topics focusing on digital culture in relation to artificial intelligence, blockchain, intellectual property, and experimental digital games).
 
 ---
 
 #### Previously taught:
 
+At other institutions, I have previously taught on subjects including media theory, media arts, creative computing, and law and culture. Taught modules have included:
 
 - _Digital Media Theory_ (ARU, Cambridge/UK)
 - _Digital Media Practice and Creative Computing_ (ARU, Cambridge/UK)
