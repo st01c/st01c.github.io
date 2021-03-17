@@ -26,9 +26,9 @@ A monograph on AI art, creative agency, and intellectual property issues (Meson 
 
 "Generative Adversarial Copy Machines" forthcoming in a special issue on AI, in [_Culture Machine_](https://culturemachine.net/submissions/cfpmachineintelligencesincontext2021/)
 
-#### \_recent:
+#### \_past:
 
-“‘Chaotic Lawful’: Teaching Videogames in a Licensing and Permissions Lacuna” (with Darshana Jayemanne), _Journal of Cinema and Media Studies_ (special issue: 'Copyright Issues in the COVID-19 Pandemic;' edited by Kirsten Thompson and Brendan Kredell) (2021) [read here](https://quod.lib.umich.edu/j/jcms/18261332.0060.709/--chaotic-lawful-teaching-digital-games-in-a-licensing?rgn=main;view=fulltext)
+“‘Chaotic Lawful’: Teaching Videogames in a Licensing and Permissions Lacuna” (with Darshana Jayemanne), _Journal of Cinema and Media Studies_ (special issue: 'Copyright Issues in the COVID-19 Pandemic;' edited by Kirsten Thompson and Brendan Kredell) (2021) [Read here](https://quod.lib.umich.edu/j/jcms/18261332.0060.709/--chaotic-lawful-teaching-digital-games-in-a-licensing?rgn=main;view=fulltext)
 
 “Rethinking Affordance,” a special issue of [_Media Theory_](http://journalcontent.mediatheoryjournal.org/index.php/mt/issue/view/4), co-edited with Ashley Scarlett (Alberta University of the Arts, Calgary/CAN). Documentation and contributions linked to an exhibition and symposium on the same topic, organised at Akademie Solitude, Stuttgart/Germany (May/June 2018), can be found on [Schloss-Post][1].
 
@@ -40,8 +40,5 @@ A monograph on AI art, creative agency, and intellectual property issues (Meson 
 
 “[Plotting Critical Research-Practice in Digital Art](/blog/plotting-critical-researchpractice-in-digital-art.html),” in _Parsing Digital_, ed. Sally Golding, London: Austrian Cultural Forum (Sept 2018)
 
-“[Digital Art Between Fintech Mysticism and Fintech Activism](/blog/algomysticism-and-fintech-activism.html),” in Ed. Geert Lovink et al, [_Moneylab Reader Vol. 2_][4], Amsterdam: Institute for Network Culture: 2018, 75-86.
-
 [2]:https://unthinking.photography/articles/first-as-snapshot-then-as-decentralised-digital-asset
 [3]:https://www.videogameartgallery.com/vga-reader
-[4]:http://networkcultures.org/blog/publication/moneylab-reader-2-overcoming-the-hype/

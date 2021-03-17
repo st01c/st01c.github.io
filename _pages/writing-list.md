@@ -10,7 +10,7 @@ featured_image:
   {% if post.category == "writing" %}
       {% assign year = post.date | date:"%Y" %}
       {% if year == "2019" %}
-**"{{ post.title }}"** [Read]({{ post.url }})  
+**"{{ post.title }}"** [Read here]({{ post.url }})  
 Tags: {{ post.tagz }}.
       {% endif %}
   {% endif %}
@@ -21,7 +21,7 @@ Tags: {{ post.tagz }}.
   {% if post.category == "writing" %}
       {% assign year = post.date | date:"%Y" %}
       {% if year == "2018" %}
-**"{{ post.title }}"** [Read]({{ post.url }})  
+**"{{ post.title }}"** [Read here]({{ post.url }})  
 Tags: {{ post.tagz }}.
       {% endif %}
   {% endif %}
@@ -32,7 +32,7 @@ Tags: {{ post.tagz }}.
   {% if post.category == "writing" %}
       {% assign year = post.date | date:"%Y" %}
       {% if year == "2017" %}
-**"{{ post.title }}"** [Read]({{ post.url }})  
+**"{{ post.title }}"** [Read here]({{ post.url }})  
 Tags: {{ post.tagz }}.
       {% endif %}
   {% endif %}
@@ -43,7 +43,7 @@ Tags: {{ post.tagz }}.
   {% if post.category == "writing" %}
       {% assign year = post.date | date:"%Y" %}
       {% if year == "2014" %}
-**"{{ post.title }}"** [Read]({{ post.url }})  
+**"{{ post.title }}"** [Read here]({{ post.url }})  
 Tags: {{ post.tagz }}.
       {% endif %}
   {% endif %}
@@ -54,7 +54,7 @@ Tags: {{ post.tagz }}.
   {% if post.category == "writing" %}
       {% assign year = post.date | date:"%Y" %}
       {% if year == "2013" %}
-**"{{ post.title }}"** [Read]({{ post.url }})  
+**"{{ post.title }}"** [Read here]({{ post.url }})  
 Tags: {{ post.tagz }}.
       {% endif %}
   {% endif %}

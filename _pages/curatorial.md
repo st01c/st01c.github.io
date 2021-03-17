@@ -7,11 +7,11 @@ featured_image:
 
 I have been co-curator of the Toronto-based [Vector Festival](http://vectorfestival.org/) since 2014. In 2019, I joined the curatorial collective of the [NEoN Festival](https://northeastofnorth.com/) in Dundee, Scotland. Since roughly 2005, I have been involved in a number of other curatorial projects in Canada, Germany, Austria, and the UK.
 
-My curatorial practice engages broadly with experimental media art, often focusing on digital art, software art,  generative art, and experimental uses of video game technologies.
+My curatorial practice engages broadly with experimental media art, often focusing on digital art, software art, generative art, and experimental uses of video game technologies.
 
-I am particularly interested in appropriative uses of emerging technologies, in developing new exhibition formats for digital work, and in exploring intersections between creative and critical practice.
+I am particularly interested in appropriation-based uses of emerging technologies, in developing new exhibition formats for digital work, and in exploring intersections between creative and critical practice.
 
-Thematically, past curatorial projects have focused on topics including artificial intelligence and generative art, surveillance and privacy issues, game art, and critical engineering, among many others.
+Thematically, past curatorial projects have focused on topics including artificial intelligence and generative art, surveillance and privacy issues, experimental game art, and critical engineering, among others.
 
 ---
 
