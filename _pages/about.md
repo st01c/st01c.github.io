@@ -20,14 +20,15 @@ _This website is quasi-permanently under construction, and built with various op
 
 ---
 
-#### \_forthcoming:
+#### \_next:
 
-A monograph on AI art, creative agency, and intellectual property issues (Meson Press 2021)
+A monograph on AI art, creative agency, and intellectual property issues (Meson Press, Spring 2021)
 
-“‘Chaotic Lawful’: Teaching Videogames in a Licensing and Permissions Lacuna” (with Darshana Jayemanne), _Journal of Cinema and Media Studies_ (special issue: 'Copyright Issues in the COVID-19 Pandemic;'' edited by Kirsten Thompson and Brendan Kredell) (2021)
+"Generative Adversarial Copy Machines" forthcoming in a special issue on AI, in [_Culture Machine_](https://culturemachine.net/submissions/cfpmachineintelligencesincontext2021/)
 
+#### \_recent:
 
-#### \_latest publications:
+“‘Chaotic Lawful’: Teaching Videogames in a Licensing and Permissions Lacuna” (with Darshana Jayemanne), _Journal of Cinema and Media Studies_ (special issue: 'Copyright Issues in the COVID-19 Pandemic;' edited by Kirsten Thompson and Brendan Kredell) (2021) [read here](https://quod.lib.umich.edu/j/jcms/18261332.0060.709/--chaotic-lawful-teaching-digital-games-in-a-licensing?rgn=main;view=fulltext)
 
 “Rethinking Affordance,” a special issue of [_Media Theory_](http://journalcontent.mediatheoryjournal.org/index.php/mt/issue/view/4), co-edited with Ashley Scarlett (Alberta University of the Arts, Calgary/CAN). Documentation and contributions linked to an exhibition and symposium on the same topic, organised at Akademie Solitude, Stuttgart/Germany (May/June 2018), can be found on [Schloss-Post][1].
 
