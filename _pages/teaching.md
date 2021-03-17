@@ -15,6 +15,8 @@ At Abertay University's [School for Design and Informatics](https://www.abertay.
 - _DES104_ **Game Studies and Criticism**
 - _DES505_ **Innovation and Professional practice**
 
+I am also currently developing AI and Data Ethics teaching content to be delivered across **Abertay University's new MSc Applied AI & UX degree**.
+ 
 Supervision inquiries from prospective doctoral students in all of my areas of interest are welcome (specifically topics focusing on digital culture in relation to artificial intelligence, blockchain, intellectual property, and experimental digital games).
 
 ---
