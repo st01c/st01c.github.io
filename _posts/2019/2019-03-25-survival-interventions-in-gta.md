@@ -8,8 +8,6 @@ tagz: performance art, game art
 featured_image: "/images/content/ClintEnns-747_2.jpeg"
 ---
 
-Tags: {{post.tagz}}
-
 Volume 2 of the _Video Game Art Reader_ (edited by Tiffany Funk) is finally out, and I'm excited that my essay on performance-based interventions in the _Grand Theft Auto_ universe was chosen to head off the list of excellent contributions. [Digital copies](https://www.videogameartgallery.com/vga-reader) can be obtained on the website of the Chicago-based Video Game Art Gallery – or follow the [link]({{ site.url }}/downloads/Zeilinger_VGAR_vol2_2018v2.pdf) for a PDF copy of my essay.
 
 My contribution discusses the work of Joseph DeLappe, Brent Watanabe, Clint Enns, Georgie Roxby Smith, and COLLEO, among others.

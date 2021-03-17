@@ -4,7 +4,7 @@ short_title: "CFP: Emerging ownership models on the blockchain"
 date: "2019-03-15"
 description: "A CFP for a special issue in the 'Blockchain for Good' series of the Frontiers in Blockchain, which I am co-editing with Marcus O'Dair"
 category: news
-tags: crypto
+tags: crypto, blockchain
 featured_image: "/images/content/crypto-kitties-4.jpg"
 ---
 
