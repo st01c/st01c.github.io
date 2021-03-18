@@ -16,7 +16,7 @@ We welcome everything from long-form research articles and case studies to surve
 - Abstracts: May 14, 2019
 - Manuscript: September 11, 2019
 
-_(Note: The publisher has assured us that Author Publishing Fees are negotiable and may be waived.)_
+_(Note: The publisher has assured us that Author Publishing Fees are negotiable and can be waived.)_
 
 #### About this Research Topic
 
