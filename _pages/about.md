@@ -16,7 +16,7 @@ I can be reached through [Twitter](https://twitter.com/mrtnzlngr), this [contact
 
 ---
 
-_This website is quasi-permanently under construction, and built with various open source tools (Jekyll, Ruby, Liquid, YAML, Sass, Git). In case the site is misbehaving, here is an external link to copies of most of my [publications](https://anglia.academia.edu/MZ). Last updated {{ "now" | date_to_long_string }})_
+_This website is quasi-permanently under construction, and built with various open source tools (Jekyll, Ruby, Liquid, YAML, Sass, Git). In the not unlikely event that the site might be misbehaving, here is an external link to downloadable copies of most of my [publications](https://abertay.academia.edu/MartinZeilinger). Last updated {{ "now" | date_to_long_string }})_
 
 ---
 
