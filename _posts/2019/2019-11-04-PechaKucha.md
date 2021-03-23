@@ -4,7 +4,7 @@ short_title: "Pecha Kucha talk"
 date: "2019-11-04"
 description:
 category: news
-tags:
+tagz: public lecture, AI art
 featured_image: "/images/content/PechaKuchaDundee.jpg"
 ---
 ![](/images/content/PechaKuchaDundee.jpg)

@@ -4,7 +4,7 @@ subtitle:
 description: About page, personal website Martin Zeilinger.
 featured_image:
 ---
-After many years in Vienna, Toronto, and London, I' currently based in Dundee, Scotland, where I now hold a research and teaching position as [Senior Lecturer in Computational Arts & Technology](https://rke.abertay.ac.uk/en/persons/martin-zeilinger) at Abertay University.
+After many years in Vienna, Toronto, and London, I'm currently based in Dundee, Scotland, where I hold a research and teaching position as [Senior Lecturer in Computational Arts & Technology](https://rke.abertay.ac.uk/en/persons/martin-zeilinger) at Abertay University.
 
 Much of my current work focuses on artistic and activist experimentation with emerging technologies – specifically artificial intelligence and distributed ledger technologies (aka, the blockchain and 'crypto art'). This frames a broader interest in digital art, appropriation-based art practices, theories of cultural ownership and intellectual property, political economies of new media, and aspects of experimental videogame culture.
 
@@ -22,9 +22,9 @@ _This website is quasi-permanently under construction, and built with various op
 
 #### \_next:
 
-A monograph on AI art, creative agency, and intellectual property issues (Meson Press, Spring 2021)
+[_Tactical Entanglements: AI Art, Creative Agency, and the Limits of Intellectual Property_](https://meson.press/books/tactical-entanglements/) – monograph forthcoming with meson press April 2021
 
-"Generative Adversarial Copy Machines" forthcoming in a special issue on AI, in [_Culture Machine_](https://culturemachine.net/submissions/cfpmachineintelligencesincontext2021/)
+"Generative Adversarial Copy Machines" – essay forthcoming in a special issue on AI, in [_Culture Machine_](https://culturemachine.net/submissions/cfpmachineintelligencesincontext2021/)
 
 #### \_past:
 
