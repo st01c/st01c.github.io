@@ -4,7 +4,7 @@ short_title: " "
 date: "2019-04-03"
 description:
 category: news
-tagz:
+tagz: CFP
 featured_image: "/images/content/re-colour.jpg"
 ---
 

@@ -44,7 +44,7 @@
 	color: $text-dark-color;
 
 	&:hover {
-		color: white //$accent-color;
+		color: white; //$accent-color;
 	}
 
 	@include mq(tabletp) {
@@ -167,6 +167,7 @@
 }
 
 .menu__list {
+	// visibility: hidden;			// can hide menu list site-wide! breaks usability
 	list-style: none;
 	margin: 0 auto;
 	padding: 20px $grid-spacing;

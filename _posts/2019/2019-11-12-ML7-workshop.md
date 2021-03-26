@@ -4,7 +4,7 @@ short_title: "Planet Cashless 2029"
 date: "2019-11-12"
 description:
 category: news
-tags:
+tagz: fintech, MoneyLab, cashlessness
 featured_image: "/images/content/cashlesstooth-1024x722.jpg"
 ---
 ##### Join Furtherfield's Ruth Catlow and me for a workshop at MoneyLab #7 in Amsterdam next week.

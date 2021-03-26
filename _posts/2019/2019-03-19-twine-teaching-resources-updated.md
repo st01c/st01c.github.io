@@ -4,7 +4,7 @@ short_title: "Twine resources"
 date: "2019-03-19"
 description:
 category: teaching
-tags: digital_storytelling
+tagz: digital_storytelling, teaching materials, Twine
 featured_image: "/images/content/Twine-birdseye01.png"
 ---
 

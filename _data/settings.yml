@@ -15,7 +15,7 @@ menu_settings:
     # - title: '_test'
     #  url: '/test'
     - title: '_news'
-      url: '/news/'
+      url: '/news-list/' #was /news/ to refer to grid thing of news… 
     - title: '_teaching'
       url: '/teaching'
     - title: '_curatorial'
@@ -23,18 +23,18 @@ menu_settings:
     # - title: '_projects'
     #  url: '/'
     - title: '_writing'
-      url: '/writing/' #create page here that uses blog format but displaying only the writing category!
+      url: '/writing-list/' #was /writing/ to refer to grid thing of writing… create page here that uses blog format but displaying only the writing category!
     - title: '_about'
       url: '/about'
     - title: '_main' # renamed from blog
       url: '/' # url: '/blog/' #must be changed to root when it's the main site...
 
 footer_settings:
-  footer_tagline: MZ playing around with Ruby/Liquid/YAML/Sass/Git/etc. in Jekyll.
+  footer_tagline: MZ tinkering with Ruby/Liquid/YAML/Sass/Git/etc. in Jekyll.
 
 grid_settings:
   overlay_opacity: 0.9
-  grid_spacing: 5
+  grid_spacing: 10
   content_alignment: bottom
 
 contact_settings:
@@ -72,14 +72,14 @@ social_settings:
   linkedin_url: ''
 
 color_settings:
-  background_color: '#ffffff' # site background
+  background_color: '#ffffff' # site background #'#ededed' #(light grey)
   background_alt_color: '#f4f5f6' # ??
   text_dark_color: '#2A2F36'
   text_medium_color: '#363d44' #'#6C7A89'
   text_light_color: '#ABB7B7'
-  accent_color: '#ff074e' #'#4ecdc4' # link hover highlight, link underline, and highlight in nav
+  accent_color: '#ff0718' #'#4ecdc4' # link hover highlight, link underline, and highlight in nav
   border_color: '#dddddd'
-  overlay_background_color: '#DCDCDC' #'#669999' #'#4ecdc4' # grid hover color
+  overlay_background_color: 'grey' #'#5f678c' #'yellow' #'#DCDCDC' #'#669999' #'#4ecdc4' # grid hover color #THIS AFFECTS
   overlay_text_color: '#000000' #'#ffffff' # grid item text color
   overlay_accent_color: '#2A2F36' # ??
   error_color: '#D64541'
@@ -103,11 +103,11 @@ font_settings:
     large_size: 30
     weight: 400 #500
     letter_spacing: -0.01
-  menu:
+  menu:                         # menu fonts
     small_size: 20
     medium_size: 20 #17
     large_size: 20 #17 #15
-    weight: 500
+    weight: 300
     letter_spacing: 0
   grid_item_title:
     small_size: 13 #15 #22
@@ -169,14 +169,14 @@ font_settings:
     large_size: 19 #16 #17 #19
     weight: 300
     letter_spacing: 0
-    line_height: 1.6
+    line_height: 1.3 #1.6
   blockquote:
     small_size: 16 #17 #25
     medium_size: 18 #20 #35
     large_size: 20 #25 #45
     weight: 300
     letter_spacing: -0.02
-    line_height: 1.6
+    line_height: 1.4
   buttons:
     weight: 500
     letter_spacing: 0

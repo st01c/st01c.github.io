@@ -4,8 +4,8 @@ short_title: IP & AI Issues in Contemporary Art
 date: 2019-03-20 00:00:00
 description:
 featured_image: "/images/content/color-block-green.jpg"
-category: teaching
-tags: digital_art AI IP
+category: teaching, intellectual property, AI, digital art
+tagz: digital_art AI IP
 ---
 
 Teaching a guest seminar at [Gent University's Doctoral School for Law and Literature](https://www.ugent.be/doctoralschools/en/doctoraltraining/courses/specialistcourses/ahl/law-and-literature.htm?fbclid=IwAR0xFNhD-fBhO2quO72zuaGybss5MLFRSVugBVmY33JcHHIf2Ico1LtIZW8#Datesandprogramme-Venue) on March 20.

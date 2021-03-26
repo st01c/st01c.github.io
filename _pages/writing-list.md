@@ -1,17 +1,18 @@
 ---
-title: _writing (list)
+title: _writing
 subtitle:
-description: A plain list with all items in the 'writing' category.
+description: A plain list with all items in the _writing category.
 featured_image:
 ---
+
 
 2019:
 {% for post in site.posts %}
   {% if post.category == "writing" %}
       {% assign year = post.date | date:"%Y" %}
       {% if year == "2019" %}
-**"{{ post.title }}"** [Read here]({{ post.url }})  
-Tags: {{ post.tagz }}.
+**"{{ post.title }}"** [Read]({{ post.url }})  
+tags: {{ post.tagz }}
       {% endif %}
   {% endif %}
 {% endfor %}
@@ -21,8 +22,8 @@ Tags: {{ post.tagz }}.
   {% if post.category == "writing" %}
       {% assign year = post.date | date:"%Y" %}
       {% if year == "2018" %}
-**"{{ post.title }}"** [Read here]({{ post.url }})  
-Tags: {{ post.tagz }}.
+**"{{ post.title }}"** [Read]({{ post.url }})  
+tags: {{ post.tagz }}
       {% endif %}
   {% endif %}
 {% endfor %}
@@ -32,8 +33,8 @@ Tags: {{ post.tagz }}.
   {% if post.category == "writing" %}
       {% assign year = post.date | date:"%Y" %}
       {% if year == "2017" %}
-**"{{ post.title }}"** [Read here]({{ post.url }})  
-Tags: {{ post.tagz }}.
+**"{{ post.title }}"** [Read]({{ post.url }})  
+tags: {{ post.tagz }}
       {% endif %}
   {% endif %}
 {% endfor %}
@@ -43,8 +44,8 @@ Tags: {{ post.tagz }}.
   {% if post.category == "writing" %}
       {% assign year = post.date | date:"%Y" %}
       {% if year == "2014" %}
-**"{{ post.title }}"** [Read here]({{ post.url }})  
-Tags: {{ post.tagz }}.
+**"{{ post.title }}"** [Read]({{ post.url }})  
+tags: {{ post.tagz }}
       {% endif %}
   {% endif %}
 {% endfor %}
@@ -54,8 +55,9 @@ Tags: {{ post.tagz }}.
   {% if post.category == "writing" %}
       {% assign year = post.date | date:"%Y" %}
       {% if year == "2013" %}
-**"{{ post.title }}"** [Read here]({{ post.url }})  
-Tags: {{ post.tagz }}.
+**"{{ post.title }}"** [Read]({{ post.url }})  
+tags: {{ post.tagz }}
       {% endif %}
   {% endif %}
 {% endfor %}
+---

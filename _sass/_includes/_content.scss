@@ -63,7 +63,7 @@
 		}
 
 		@include mq(desktop) {
-			max-width: 45%;
+			max-width: 45%; // was; 45%;
 		}
 	}
 
