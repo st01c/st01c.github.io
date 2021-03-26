@@ -1,5 +1,5 @@
 ---
-title: _news
+title: _everything
 subtitle:
 description: A plain list with all items in the 'news' category.
 featured_image:
@@ -114,7 +114,7 @@ _current:
       {% assign recent_date_limit = current_date_num | minus: 180 %}
       {% if current_post_date_num >= recent_date_limit %}
 **"{{ post.title }}"** [Read]({{ post.url }}) <br>
-{{ post.date | date: "%b %d %Y" }} ++ {{ post.category }} ++ tags: {{ post.tagz }}
+{{ post.date | date: "%b %d %Y" }} - {{ post.category }} - tags: {{ post.tagz }}
       {% endif %}
 {% endfor %}
 
@@ -130,6 +130,6 @@ _past:
       {% assign past_date_limit = current_date_num | minus: 180 %}
       {% if current_post_date_num < past_date_limit %}
 **"{{ post.title }}"** [Read]({{ post.url }}) <br>
-{{ post.date | date: "%b %d %Y" }} ++ {{ post.category }} ++ tags: {{ post.tagz }}
+{{ post.date | date: "%b %d %Y" }} - {{ post.category }} - tags: {{ post.tagz }}
       {% endif %}
 {% endfor %}
