@@ -6,6 +6,8 @@ category: writing
 description: ""
 featured_image: "/images/content/monetised.jpg"
 tagz: copyright, digital art, financialization, blockchain, art market
+publication: Philosophy & Technology
+type: journal article
 ---
 
 [Published](https://link.springer.com/article/10.1007/s13347-016-0243-1) (Open Access) in _Philosophy and Technology_ 31.1 (2018, first online in Nov. 2016), special issue edited by Mark Coeckelbergh, Quinn DuPont, Wessel Reijers.

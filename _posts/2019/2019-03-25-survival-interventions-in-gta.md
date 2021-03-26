@@ -4,7 +4,9 @@ short_title: "Survival Interventions in GTA"
 date: "2019-03-25"
 description:
 category: writing
-tagz: performance art, game art, special issue
+tagz: performance art, game art
+publication: Video Game Art Reader Vol. 2
+type: journal article
 featured_image: "/images/content/ClintEnns-747_2.jpeg"
 ---
 

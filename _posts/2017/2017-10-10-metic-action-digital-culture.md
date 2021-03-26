@@ -4,6 +4,8 @@ short_title: Métic Action in Digital Culture
 date: "2017-10-10 19:51"
 featured_image: "/images/content/cunning.jpg"
 category: writing
+publication: Platform Journal
+type: journal article
 tagz: cunning, biopower, metis, activism
 ---
 

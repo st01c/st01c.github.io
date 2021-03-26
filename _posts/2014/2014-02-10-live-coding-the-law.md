@@ -5,6 +5,8 @@ date: "2014-02-10 18:20"
 description:
 featured_image: "/images/content/live_coding.jpg"
 category: writing
+publication: Computer Music Journal
+type: journal article
 tagz: music, live coding, IP, copyright
 ---
 

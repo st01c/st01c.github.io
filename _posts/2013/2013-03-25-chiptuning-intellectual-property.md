@@ -5,6 +5,8 @@ date: "2013-03-25"
 description:
 category: writing
 tagz: music, IP, copyright, Creative Commons
+publication: IASPM Journal
+type: journal article
 featured_image: "/images/content/color-block-green.jpg"
 ---
 [Published](http://www.iaspmjournal.net/index.php/IASPM_Journal/article/view/599) in _IASPM@journal_ 3.1 (2013)

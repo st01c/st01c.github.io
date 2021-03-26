@@ -5,6 +5,8 @@ date: "2018-10-15"
 description:
 category: writing
 tagz: crypto, digital art, fintech, photography, blockchain
+type: online article
+publication: Unthinking.Photography (online journal)
 featured_image: "/images/content/kodakcoin.jpg"
 ---
 

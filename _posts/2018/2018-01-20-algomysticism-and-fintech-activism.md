@@ -4,6 +4,8 @@ short_title: Digital Art & Fintech Activism
 date: "2018-01-20 19:28"
 featured_image: "/images/content/moneylab-reader-2.png"
 tagz: crypto, digital art, blockchain
+publication: MoneyLab Reader Vol. 2
+type: book chapter
 category: writing
 ---
 
