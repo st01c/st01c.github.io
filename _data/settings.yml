@@ -15,7 +15,7 @@ menu_settings:
     # - title: '_test'
     #  url: '/test'
     - title: '_news'
-      url: '/news-list/' #was /news/ to refer to grid thing of news… 
+      url: '/news-list' #was /news/ to refer to grid thing of news…
     - title: '_teaching'
       url: '/teaching'
     - title: '_curatorial'
@@ -23,7 +23,7 @@ menu_settings:
     # - title: '_projects'
     #  url: '/'
     - title: '_writing'
-      url: '/writing-list/' #was /writing/ to refer to grid thing of writing… create page here that uses blog format but displaying only the writing category!
+      url: '/writing-list' #was /writing/ to refer to grid thing of writing… create page here that uses blog format but displaying only the writing category!
     - title: '_about'
       url: '/about'
     - title: '_main' # renamed from blog
