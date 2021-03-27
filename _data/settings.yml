@@ -79,7 +79,8 @@ color_settings:
   text_light_color: '#ABB7B7'
   accent_color: '#ff0718' #'#4ecdc4' # link hover highlight, link underline, and highlight in nav
   border_color: '#dddddd'
-  overlay_background_color: 'grey' #'#5f678c' #'yellow' #'#DCDCDC' #'#669999' #'#4ecdc4' # grid hover color #THIS AFFECTS
+  overlay_background_color: 'yellow' #'#5f678c' #'yellow' #'#DCDCDC' #'#669999' #'#4ecdc4' # grid hover color #THIS AFFECTS
+  grid_overlay_color: 'grey' #trying this so that it's used only for main page grid overlay…
   overlay_text_color: '#000000' #'#ffffff' # grid item text color
   overlay_accent_color: '#2A2F36' # ??
   error_color: '#D64541'
@@ -91,6 +92,8 @@ font_settings:
   #font_embed: '<link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">'
   title_font: '"Poppins", sans-serif'
   body_font: '"Poppins", sans-serif'
+  #menu_font:
+
   #title_font: '"Old+Standard+TT", serif'
   #body_font: '"Old+Standard+TT", serif'
   #title_font: '"Merriweather", serif'
