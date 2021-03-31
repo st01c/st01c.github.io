@@ -10,6 +10,9 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
+  fronts:
+    output: true
+    permalink: /front/:slug
 
 defaults:
   -
@@ -35,6 +38,12 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+  -
+    scope:
+      path: ""
+      type: "fronts"
+    values:
+      layout: "front"
 
 markdown: kramdown
 

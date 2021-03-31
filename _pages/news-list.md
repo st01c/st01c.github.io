@@ -113,8 +113,8 @@ _current:
       {% assign current_post_date_num = post_year_num | plus: post_month_num | plus: post_day_num %}
       {% assign recent_date_limit = current_date_num | minus: 180 %}
       {% if current_post_date_num >= recent_date_limit %}
-**"{{ post.title }}"** [Read]({{ post.url }}) <br>
-{{ post.date | date: "%b %d %Y" }} - {{ post.category }} - tags: {{ post.tagz }}
+**"{{ post.title }}"** [&#8618;]({{ post.url }}) <br>
+{{ post.date | date: "%b %d %Y" }} • {{ post.category }} • tags: {{ post.tagz }}
       {% endif %}
 {% endfor %}
 
@@ -129,7 +129,7 @@ _past:
       {% assign current_post_date_num = post_year_num | plus: post_month_num | plus: post_day_num %}
       {% assign past_date_limit = current_date_num | minus: 180 %}
       {% if current_post_date_num < past_date_limit %}
-**"{{ post.title }}"** [Read]({{ post.url }}) <br>
-{{ post.date | date: "%b %d %Y" }} - {{ post.category }} - tags: {{ post.tagz }}
+**"{{ post.title }}"** [&#8618;]({{ post.url }}) <br>
+{{ post.date | date: "%b %d %Y" }} • {{ post.category }} • tags: {{ post.tagz }}
       {% endif %}
 {% endfor %}

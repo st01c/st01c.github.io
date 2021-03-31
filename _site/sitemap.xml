@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/front/front</loc>
+</url>
+<url>
 <loc>http://localhost:4000/about</loc>
+</url>
+<url>
+<loc>http://localhost:4000/columns-test</loc>
 </url>
 <url>
 <loc>http://localhost:4000/contact</loc>
@@ -147,5 +153,9 @@
 <url>
 <loc>http://localhost:4000/downloads/Zeilinger_VGAR_vol2_2018v2.pdf</loc>
 <lastmod>2019-02-16T13:13:11+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/images/content/%3C%20_Martin%20Zeilinger.html</loc>
+<lastmod>2021-03-30T23:07:47+01:00</lastmod>
 </url>
 </urlset>

@@ -10,8 +10,8 @@ featured_image:
   {% if post.category == "writing" %}
       {% assign year = post.date | date:"%Y" %}
       {% if year == "2021" %}
-**"{{ post.title }}"**  
-_{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}< • [more]({{ post.url }})
+**"{{ post.title }}"** [&#8618;]({{ post.url }}) <br>
+_{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}<
       {% endif %}
   {% endif %}
 {% endfor %}
@@ -21,8 +21,8 @@ _{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}< • [more]({{ 
   {% if post.category == "writing" %}
       {% assign year = post.date | date:"%Y" %}
       {% if year == "2020" %}
-**"{{ post.title }}"**  
-_{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}< • [more]({{ post.url }})
+**"{{ post.title }}"** [&#8618;]({{ post.url }}) <br>
+_{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}<
       {% endif %}
   {% endif %}
 {% endfor %}
@@ -32,8 +32,8 @@ _{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}< • [more]({{ 
   {% if post.category == "writing" %}
       {% assign year = post.date | date:"%Y" %}
       {% if year == "2019" %}
-**"{{ post.title }}"**  
-_{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}< • [more]({{ post.url }})
+**"{{ post.title }}"** [&#8618;]({{ post.url }}) <br>
+_{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}<
       {% endif %}
   {% endif %}
 {% endfor %}
@@ -43,8 +43,8 @@ _{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}< • [more]({{ 
   {% if post.category == "writing" %}
       {% assign year = post.date | date:"%Y" %}
       {% if year == "2018" %}
-**"{{ post.title }}"**  
-_{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}< • [more]({{ post.url }})
+**"{{ post.title }}"** [&#8618;]({{ post.url }}) <br>
+_{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}<
       {% endif %}
   {% endif %}
 {% endfor %}
@@ -54,8 +54,8 @@ _{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}< • [more]({{ 
   {% if post.category == "writing" %}
       {% assign year = post.date | date:"%Y" %}
       {% if year == "2017" %}
-**"{{ post.title }}"**  
-_{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}< • [more]({{ post.url }})
+**"{{ post.title }}"** [&#8618;]({{ post.url }}) <br>
+_{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}<
       {% endif %}
   {% endif %}
 {% endfor %}
@@ -65,8 +65,8 @@ _{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}< • [more]({{ 
   {% if post.category == "writing" %}
       {% assign year = post.date | date:"%Y" %}
       {% if year == "2014" %}
-**"{{ post.title }}"**  
-_{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}< • [more]({{ post.url }})
+**"{{ post.title }}"** [&#8618;]({{ post.url }}) <br>
+_{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}<
       {% endif %}
   {% endif %}
 {% endfor %}
@@ -76,8 +76,8 @@ _{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}< • [more]({{ 
   {% if post.category == "writing" %}
       {% assign year = post.date | date:"%Y" %}
       {% if year == "2013" %}
-**"{{ post.title }}"**  
-_{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}< • [more]({{ post.url }})
+**"{{ post.title }}"** [&#8618;]({{ post.url }}) <br>
+_{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}<
       {% endif %}
   {% endif %}
 {% endfor %}

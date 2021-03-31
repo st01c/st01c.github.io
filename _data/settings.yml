@@ -14,20 +14,22 @@ menu_settings:
     #  url: '/contact'
     # - title: '_test'
     #  url: '/test'
-    - title: '_news'
-      url: '/news-list' #was /news/ to refer to grid thing of news…
-    - title: '_teaching'
-      url: '/teaching'
-    - title: '_curatorial'
-      url: '/curatorial'
-    # - title: '_projects'
-    #  url: '/'
-    - title: '_writing'
-      url: '/writing-list' #was /writing/ to refer to grid thing of writing… create page here that uses blog format but displaying only the writing category!
     - title: '_about'
       url: '/about'
-    - title: '_main' # renamed from blog
-      url: '/' # url: '/blog/' #must be changed to root when it's the main site...
+    - title: '_news'
+      url: '/news-list' #was /news/ to refer to grid thing of news…
+    - title: '_writing'
+      url: '/writing-list' #was /writing/ to refer to grid thing of writing… create page here that uses blog format but displaying only the writing category!
+    - title: '_curatorial'
+      url: '/curatorial'
+    - title: '_teaching'
+      url: '/teaching'
+    - title: '_all'
+      url: '/'
+    # - title: '_projects'
+    #  url: '/'
+    - title: '_front' # renamed from blog
+      url: '/front/front' # url: '/blog/' #must be changed to root when it's the main site...
 
 footer_settings:
   footer_tagline: MZ tinkering with Ruby/Liquid/YAML/Sass/Git/etc. in Jekyll.

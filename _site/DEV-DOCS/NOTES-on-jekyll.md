@@ -28,6 +28,7 @@ In _sass folder:
 
 _content.scss: change page content width…
 
+_listing.scss: that's where the grid overlay opacity problem was… I turned it fully off now here, but there's still the nice yellow background on the mini menu.
 
 
 

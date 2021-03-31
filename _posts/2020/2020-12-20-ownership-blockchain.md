@@ -8,6 +8,7 @@ tagz: blockchain, fintech, ownership, intellectual property, creative industries
 publication: Frontiers in Blockchain
 type: special issue
 featured_image: "/images/content/ccoins.jpg"
+pinned: "1"
 ---
 
 ![](/images/content/ccoins.jpg)
