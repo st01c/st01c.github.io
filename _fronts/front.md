@@ -28,7 +28,7 @@ img {
     </ul>
   </p>
 <p> <a href="https://rke.abertay.ac.uk/en/persons/martin-zeilinger"> Senior Lecturer in Computational Arts and Technology</a> at Abertay University in Dundee/Scotland.</p>
-<p> <a href="about">More...</a></p>
+<p> <a href="/about">More...</a></p>
 <hr>
 <p> <b>_current:</b><br>
   {% for post in site.posts %}
