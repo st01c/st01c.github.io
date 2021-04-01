@@ -1,5 +1,5 @@
 ---
-title: ''
+title: ' '
 subtitle:
 description:
 featured_image:
