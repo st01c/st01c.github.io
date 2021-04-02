@@ -19,11 +19,15 @@ Thematically, past curatorial projects have focused on topics including artifici
 
 Curatorial Advisor, [**THE NEW REAL**](https://newreal.cc/) (Edinburgh / online)
 
+---
+
 #### 2020:
 
 [**Vector Festival: THE ONLINE EDITION**](http://vectorfestival.org/2020-festival/). In response to the COVID-19 pandemic and accompanying safety measures, the 2020 iteration of Vector Festival was re-designed on short notice to run fully online. Exhibitions, performances, curatorial collaborations, panels, and screenings; co-curated with Katie Micak. (July-August)
 
 Featuring work from artists including: **Hiba Ali** // **Jennifer Chan** // **Ronnie Clarke** // **Hilarey Cowan** // **Thirza Cuthand** // **Maya Ben David** // **Steph Davidson** // **Hannah Epstein** // **Jord Farrell** // **Dimitris Gkikas** // **Milumbe Haimbe** // **Fay Heady** // **Amay Kataria** // **Samuel Kiehoon Lee** // **Gina Luke** // **Ben McCarthy & Cale Weir** // **Amelia Merhar** // **Roberto Santaguida** // **Juli Saragosa** // **Jordan Sparks** // **Lee Tusman** // **Syrus Marcus Ware** // **Qirou Yang**
+
+---
 
 #### 2019:
 
