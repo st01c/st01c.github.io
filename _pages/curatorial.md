@@ -15,25 +15,35 @@ Thematically, past curatorial projects have focused on topics including artifici
 
 ---
 
+#### 2021:
+
+Curatorial Advisor, [**THE NEW REAL**](https://newreal.cc/) (Edinburgh / online)
+
+#### 2020:
+
+[**Vector Festival: THE ONLINE EDITION**](http://vectorfestival.org/2020-festival/). In response to the COVID-19 pandemic and accompanying safety measures, the 2020 iteration of Vector Festival was re-designed on short notice to run fully online. Exhibitions, performances, curatorial collaborations, panels, and screenings; co-curated with Katie Micak. (July-August)
+
+Featuring work from artists including: **Hiba Ali** // **Jennifer Chan** // **Ronnie Clarke** // **Hilarey Cowan** // **Thirza Cuthand** // **Maya Ben David** // **Steph Davidson** // **Hannah Epstein** // **Jord Farrell** // **Dimitris Gkikas** // **Milumbe Haimbe** // **Fay Heady** // **Amay Kataria** // **Samuel Kiehoon Lee** // **Gina Luke** // **Ben McCarthy & Cale Weir** // **Amelia Merhar** // **Roberto Santaguida** // **Juli Saragosa** // **Jordan Sparks** // **Lee Tusman** // **Syrus Marcus Ware** // **Qirou Yang**
+
 #### 2019:
 
 [**NEoN Festival**](https://northeastofnorth.com/event/online-exhibition/). _Sous le web, la plage! (Online exhibition)_. Dundee, Scotland/UK.
 
 [**FUTURE RELICS**](https://interaccess.org/exhibition/future-relics). _Anna Eyler / Aksel Haagensen / Lisa Jackson / Raquel Meyers / Matthew Plummer-Fernandez / Scenocosme (Grégory Lasserre + Anaïs met den Ancxt) / Jeff Thompson._  
-Exhibition, Inter/Access Gallery, Toronto. Part of 'Speculative Ecologies: Media Art at the Anthropocenic Precipice (7th Vector New Media Art Festival') Co-curated with Katie Micak. (July-August).  
+Exhibition, Inter/Access Gallery, Toronto. Part of 'Speculative Ecologies: Media Art at the Anthropocenic Precipice (7th Vector New Media Art Festival') Co-curated with Katie Micak. (July-August)
 
 [**THE GREAT DERANGEMENT**](https://interaccess.org/exhibition/great-derangement). _Iodine Dynamics / Brianna Lowe / Kris Pierce / Zeesy Powers._  
-Exhibition, Electric Perfume, Toronto. Part of 'Speculative Ecologies: Media Art at the Anthropocenic Precipice (7th Vector New Media Art Festival') Co-curated with Katie Micak. (July).  
+Exhibition, Electric Perfume, Toronto. Part of 'Speculative Ecologies: Media Art at the Anthropocenic Precipice (7th Vector New Media Art Festival') Co-curated with Katie Micak. (July)
 
 [**LOCAL HOST: POST-HUMAN MEDIA ARTS**](https://interaccess.org/exhibition/local-host-post-human-media-arts). _John Ayliff / Matt DesLauriers / Droqen / Nick Montfort / Vera Sebert._  
-Online exhibition. Part of 'Speculative Ecologies: Media Art at the Anthropocenic Precipice (7th Vector New Media Art Festival') Co-curated with Katie Micak. (July).  
+Online exhibition. Part of 'Speculative Ecologies: Media Art at the Anthropocenic Precipice (7th Vector New Media Art Festival') Co-curated with Katie Micak. (July)
 
 ---
 
 #### 2018:
 
 [**RETHINKING AFFORDANCE**](http://www.akademie-solitude.de/en/events/exhibition-openings~no3921/): _Bryan Cera / Foci+Loci / FRAUD / Sebastian Schmieg / Situated Systems / Jol Thompson / Martin Zeilinger_  
-Co-curated with Ashley Scarlett, Akademie Schloss Solitude, Stuttgart/GER, (May-June).  
+Co-curated with Ashley Scarlett, Akademie Schloss Solitude, Stuttgart/GER, (May-June)
 
 [**BORN DIGITAL**](https://interaccess.org/exhibition/born-digital): _Adam Basanta / A.M. Darke / Joseph DeLappe / Judith Doyle / Ann Hirsch / Chris Kerich / Lu Yang_  
 Vector Festival flagship exhibition, co-curated with Katie Micak. Inter/Access Media Art Center, Toronto/CAN (July-August).  

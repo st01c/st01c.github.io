@@ -14,7 +14,7 @@ To run the theme locally, navigate to the theme directory in your terminal and r
 
 ## Jekyll basics
 
-If you're not familiar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details, 
+If you're not familiar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details,
 or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), and [creating pages](https://jekyllrb.com/docs/pages/).
 
 ---
@@ -57,7 +57,7 @@ This allows you to set the links inside your menu. Add each one as a list item w
 
 **Footer settings**
 
-`footer_tagline` – sets the text that dispays in the footer.
+`footer_tagline` – sets the text that displays in the footer.
 
 **Grid settings**
 

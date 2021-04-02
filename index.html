@@ -1,50 +1,56 @@
 ---
-layout: default
-title: _all
-description: _main at marjz.net
+layout: front
+title: _front
+description: _front
 featured_image:
 ---
 
-<!-- default index.html pointing to blog -->
 
-<section class="listing">
+<html>
+<head>
+<style>
+img {
+  width: 55%;
+}
+</style>
+</head>
+<body>
 
-	<div class="content-wrap listing-wrap">
 
-		{% for post in paginator.posts %}
+<div class="row">
 
-		<article class="listing-item">
+ <div class="column">
+ <p> &#8598; <b>Research and curation in:</b> <br>
+  <ul>
+      <li>AI art</li>
+      <li>art and criticism on/of the blockchain</li>
+      <li>intellectual property & cultural ownership issues in digital art</li>
+      <li>experimental videogame culture</li>
+    </ul>
+  </p>
+<p> <a href="https://rke.abertay.ac.uk/en/persons/martin-zeilinger"> Senior Lecturer in Computational Arts and Technology</a> at Abertay University in Dundee/Scotland.</p>
+<p> <a href="/about">More...</a></p>
+<hr>
+<p> <b>_current:</b><br>
+  {% for post in site.posts %}
+      {% assign pin_var = post.pinned | plus: 0%}
+      {% if pin_var == 1 %}
+          <p> '{{ post.title }}'<br> {{ post.date | date: "%b %d %Y" }} • {{ post.category }} <a href="{{ post.url }}">&#8618;</a></p>
+      {% endif %}
+  {% endfor %}
+  <hr>
 
-			<a class="listing-item__link" href="{{ post.url }}">
+</p>
+</div>
+<div class="column">
+<p>
+<img src="/images/content/tactical-entanglements-cover.jpg" alt="book cover">
+</p>
+<p> <a href="/blog/tactical-entanglements"> meson press (April 2021)</a> </p>
+<p> Available as paperback and Open Access eBook </p>
+</div>
 
-				<div class="listing-item__image">
-					<img src="{{ post.featured_image  }}" alt="{{ post.title }}">
-				</div>
+</div>
 
-				<div class="listing-item__content listing-item__content--{{ site.data.settings.grid_settings.content_alignment }}">
-					<div class="listing-item__info">
-						<h2 class="listing-item__title">{{ post.title }}</h2>
-						<p class="listing-item__subtitle">{{ post.date | date_to_long_string }} • {{ post.category }}</p>
-					</div>
-				</div>
-
-			</a>
-
-		</article>
-
-		{% endfor %}
-
-	</div>
-
-</section>
-
-{% if paginator.total_pages > 1 %}
-
-<section class="pagination">
-
-	<a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="button button--large pagination__prev{% if paginator.previous_page %} pagination--on{% endif %}"><i class="fa fa-angle-left" aria-hidden="true"></i> <span>Newer Posts</span></a>
-	<a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="button button--large pagination__next{% if paginator.next_page %} pagination--on{% endif %}"><span>Older Posts</span> <i class="fa fa-angle-right" aria-hidden="true"></i></a>
-
-</section>
-
-{% endif %}
+</body>
+</html>

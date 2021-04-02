@@ -1,6 +1,6 @@
 basic_settings:
   site_title: _Martin Zeilinger
-  favicon_image: #/images/favicon.png
+  favicon_image: '' #/images/favicon.png
 
 header_settings:
   logo_image:
@@ -24,8 +24,8 @@ menu_settings:
       url: '/curatorial'
     - title: '_teaching'
       url: '/teaching'
-    - title: '_all'
-      url: '/'
+    #- title: '_tiles'
+    #  url: '/' # FIX -- needs to point to an iteratin of 'all tiles' that's not in the root folder
     # - title: '_projects'
     #  url: '/'
     - title: '_front' # renamed from blog
@@ -89,7 +89,8 @@ color_settings:
   hover-link-color: 'ffffff'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Poppins:300,500" rel="stylesheet">'
+  #font_embed: '<link href="https://fonts.googleapis.com/css?family=Poppins:300,500" rel="stylesheet">' #too thick
+  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;1,200;1,400&display=swap" rel="stylesheet">'
   #font_embed: '<link href="https://fonts.googleapis.com/css?family=Old+Standard+TT" rel="stylesheet">'
   #font_embed: '<link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">'
   title_font: '"Poppins", sans-serif'
@@ -100,8 +101,8 @@ font_settings:
   #body_font: '"Old+Standard+TT", serif'
   #title_font: '"Merriweather", serif'
   #body_font: '"Merriweather", serif'
-  regular_weight: 300
-  bold_weight: 500
+  regular_weight: 200 #300
+  bold_weight: 400 #500
   site_title:
     small_size: 22
     medium_size: 26

@@ -12,4 +12,13 @@
   2. display NOT featured_image but color boxes...
 
 1. alternative for grid:
-  1. with liquid randomised number 
+  1. with liquid randomised number
+
+
+
+
+  **TO DO:**
+
+  - keep yellow background against mini menu [DONE]
+  - (make mini menu in top right corner on all screen sizes?)
+  - grey overlay (make images less bright) on grid view

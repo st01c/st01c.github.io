@@ -1,5 +1,5 @@
 ---
-title: _everything
+title: _news
 subtitle:
 description: A plain list with all items in the 'news' category.
 featured_image:
@@ -14,8 +14,6 @@ print contents of variable: {{ var01 }}
 
 
 This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
-
-
 
 
 

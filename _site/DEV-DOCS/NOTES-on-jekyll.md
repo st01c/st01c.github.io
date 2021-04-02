@@ -20,7 +20,7 @@ In setting.yml:
 Gives a nice background color for the small menu background (great), BUT: also
 affects a little bit the overlay on main page (bad)
 
-*overlay_opacity* should maybe fix this, but it doesn't seem to -- WHY??
+*overlay_opacity* should maybe fix this, but it doesn't seem to -- WHY?? [fixed]
 
 ---
 
@@ -29,12 +29,3 @@ In _sass folder:
 _content.scss: change page content width…
 
 _listing.scss: that's where the grid overlay opacity problem was… I turned it fully off now here, but there's still the nice yellow background on the mini menu.
-
-
-
-
-**TO DO (want to do):**
-
-- keep yellow background against mini menu
-- (make mini menu in top right corner on all screen sizes?)
-- grey overlay (make images less bright) on grid view
