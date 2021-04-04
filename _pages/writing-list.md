@@ -11,7 +11,7 @@ featured_image:
       {% assign year = post.date | date:"%Y" %}
       {% if year == "2021" %}
 **"{{ post.title }}"** [&#8618;]({{ post.url }}) <br>
-_{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}<
+_{{ post.publication }}_ -- {{post.type}} <br> >{{ post.tagz }}<
       {% endif %}
   {% endif %}
 {% endfor %}
@@ -22,7 +22,7 @@ _{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}<
       {% assign year = post.date | date:"%Y" %}
       {% if year == "2020" %}
 **"{{ post.title }}"** [&#8618;]({{ post.url }}) <br>
-_{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}<
+_{{ post.publication }}_ -- {{post.type}} <br> >{{ post.tagz }}<
       {% endif %}
   {% endif %}
 {% endfor %}
@@ -33,7 +33,7 @@ _{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}<
       {% assign year = post.date | date:"%Y" %}
       {% if year == "2019" %}
 **"{{ post.title }}"** [&#8618;]({{ post.url }}) <br>
-_{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}<
+_{{ post.publication }}_ -- {{post.type}} <br> >{{ post.tagz }}<
       {% endif %}
   {% endif %}
 {% endfor %}
@@ -44,7 +44,7 @@ _{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}<
       {% assign year = post.date | date:"%Y" %}
       {% if year == "2018" %}
 **"{{ post.title }}"** [&#8618;]({{ post.url }}) <br>
-_{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}<
+_{{ post.publication }}_ -- {{post.type}} <br> >{{ post.tagz }}<
       {% endif %}
   {% endif %}
 {% endfor %}
@@ -55,7 +55,7 @@ _{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}<
       {% assign year = post.date | date:"%Y" %}
       {% if year == "2017" %}
 **"{{ post.title }}"** [&#8618;]({{ post.url }}) <br>
-_{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}<
+_{{ post.publication }}_ -- {{post.type}} <br> >{{ post.tagz }}<
       {% endif %}
   {% endif %}
 {% endfor %}
@@ -66,7 +66,7 @@ _{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}<
       {% assign year = post.date | date:"%Y" %}
       {% if year == "2014" %}
 **"{{ post.title }}"** [&#8618;]({{ post.url }}) <br>
-_{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}<
+_{{ post.publication }}_ -- {{post.type}} <br> >{{ post.tagz }}<
       {% endif %}
   {% endif %}
 {% endfor %}
@@ -77,7 +77,7 @@ _{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}<
       {% assign year = post.date | date:"%Y" %}
       {% if year == "2013" %}
 **"{{ post.title }}"** [&#8618;]({{ post.url }}) <br>
-_{{ post.publication }}_ • {{post.type}} <br> >{{ post.tagz }}<
+_{{ post.publication }}_ -- {{post.type}} <br> >{{ post.tagz }}<
       {% endif %}
   {% endif %}
 {% endfor %}
