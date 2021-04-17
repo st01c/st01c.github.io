@@ -117,7 +117,13 @@
 
 	p a {
 		font-weight: $bold-weight;
-		border-bottom: 2px solid $accent-color;
+		//border-bottom: 2px solid $accent-color;
+		background-image: linear-gradient($accent-color, $accent-color);
+		//background-image: repeating-radial-gradient(red, black, 50px);
+		background-position: 0 92%; /* determines how far from bottom */
+		background-repeat: no-repeat;
+		background-size: 100% 2px; /* second value determines height of border */
+
 	}
 
 	p .button {

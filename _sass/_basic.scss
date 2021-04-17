@@ -196,9 +196,10 @@ blockquote {
 }
 
 a { 												//that's the links!
-	text-decoration: none;
+	text-decoration: none; //line-through;
 	color: $text-dark-color;
 	font-weight: $bold-weight;
+	//border: 2px dashed $accent-color;
 	@include transition(all 0.15s ease-in-out);
 
 	&:hover {

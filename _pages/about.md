@@ -11,6 +11,10 @@ I am an Austrian researcher and curator currently based in Dundee, Scotland, whe
 
 ---
 
+You can reach me on [Twitter](https://twitter.com/mrtnzlngr), through this [contact form](/contact), or at my institutional email: _m [.] zeilinger [@] abertay.ac.uk_.
+
+---
+
 #### Longer bio:
 
 After many years in Vienna, Toronto, and London, I am currently based in Dundee, Scotland, where I hold a research and teaching position as [Senior Lecturer in Computational Arts & Technology](https://rke.abertay.ac.uk/en/persons/martin-zeilinger) at Abertay University.
@@ -24,10 +28,6 @@ The most recent result of this interest is a [monograph](https://meson.press/boo
 In addition to research and teaching, I am involved in various curatorial activities. The most long-running of these is the Toronto-based [Vector Festival](http://vectorfestival.org/), which I have co-directed and/or co-curated since 2014.
 
 I also frequently advise artists and creative practitioners on intellectual property questions – most commonly around issues related to fair dealing/fair use. In this capacity, I have served as consultant and/or expert witness on a number of legal cases.
-
----
-
-I can be reached on [Twitter](https://twitter.com/mrtnzlngr), through this [contact form](/contact), or at my institutional email, _m [.] zeilinger [@] abertay.ac.uk_.
 
 ---
 
