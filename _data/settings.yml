@@ -20,6 +20,8 @@ menu_settings:
       url: '/news-list' #was /news/ to refer to grid thing of news…
     - title: '_writing'
       url: '/writing-list' #was /writing/ to refer to grid thing of writing… create page here that uses blog format but displaying only the writing category!
+    - title: '_talks'
+      url: '/talks-list'
     - title: '_curatorial'
       url: '/curatorial'
     - title: '_teaching'
@@ -28,8 +30,8 @@ menu_settings:
     #  url: '/' # FIX -- needs to point to an iteratin of 'all tiles' that's not in the root folder
     # - title: '_projects'
     #  url: '/'
-    - title: '_front' # renamed from blog
-      url: '/front/front' # url: '/blog/' #must be changed to root when it's the main site...
+    #- title: '_front' # renamed from blog
+    #  url: '/front/front' # url: '/blog/' #must be changed to root when it's the main site...
 
 footer_settings:
   footer_tagline: MZ tinkering with Ruby/Liquid/YAML/Sass/Git/etc. in Jekyll.
@@ -221,6 +223,7 @@ font_settings:
   buttons:
     weight: 500
     letter_spacing: 0
+  a:
 
 advanced_settings:
   ajax_loading: true
