@@ -6,7 +6,7 @@ description:
 category: writing
 tagz: AI, AI art, digital art, intellectual property, agency, posthumanism, tactical media
 publication: meson press
-type: monograph
+type: monograph (forthcoming)
 featured_image: "/images/content/TomWhite-for-cover.jpg"
 pinned: "1"
 ---

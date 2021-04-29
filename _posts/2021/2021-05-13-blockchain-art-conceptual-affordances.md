@@ -4,7 +4,7 @@ short_title: "Conceptual Affordances of Blockchain Art"
 date: "2021-05-13"
 description:
 category: talk
-tagz: blockchain, cryptoart, conceptual art, NFTs
+tagz: blockchain, crypto art, conceptual art, NFTs
 publication:
 type: invited lecture
 featured_image:
