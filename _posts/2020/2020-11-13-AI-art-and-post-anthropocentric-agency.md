@@ -8,7 +8,7 @@ tagz: AI art, agency, posthumanism
 publication:
 type: conference presentation
 featured_image:
-pinned: "1"
+pinned: "0"
 venue: Indeterminate Futures conference, Dundee University
 ---
 

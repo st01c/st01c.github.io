@@ -8,7 +8,7 @@ tagz: AI, AI art, digital art, intellectual property, agency, posthumanism, tact
 publication: meson press
 type: monograph (forthcoming)
 featured_image: "/images/content/TomWhite-for-cover.jpg"
-pinned: "1"
+pinned: "0"
 ---
 
 ![](/images/content/TomWhite-cropped.jpg)

@@ -13,6 +13,12 @@ external_url:
 venue: Uroboros Festival, Prague/CZ
 ---
 
+---
+
+[Update: The video for my talk is now embedded at the bottom of the page.]
+
+---
+
 The amazing-looking [Uroboros Festival](https://uroboros.design/) has kicked off, and is broadcasting from the [DOX Centre for Contemporary Art](https://www.dox.cz/en) in Prague until May 18. Among the festival offerings is a thematic strand on cyrpto-related topics, featuring Laura Lotti, the dada.art platform, Sparrow, folks from Robin Hood / Economic Space Agency, Denis Roio (Jaromil), among others, and also myself.
 
 The [talk](https://uroboros.design/events/on-the-conceptual-affordances-of-blockchain-art/) I've been invited to give will take place at 18:30 CEST (17:30 BST) on 13 May 2021, to be followed by a discussion.
@@ -51,3 +57,7 @@ Ruth Catlow '[NFTs and the 'Art' world: panic and possibility](https://www.thear
 Silvia Dal Dosso '[Cats, Frogs and Cryptoartists: What if Auteur .jpgs Become a Luxury Good](https://networkcultures.org/longform/2021/03/11/cats-frogs-and-cryptoartists-what-if-auteur-jpgs-become-a-luxury-good/)' Institute of Network Cultures March 11 2021
 
 Tina Rivers Ryan '[Token Gesture](https://www.artforum.com/print/202105/token-gesture-85475)' Artforum May 2021
+
+---
+
+<iframe width="966" height="543" src="https://www.youtube.com/embed/88i5lON8dsw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
