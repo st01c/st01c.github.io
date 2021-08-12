@@ -46,7 +46,7 @@ img {
 <p>
 <img src="/images/content/tactical-entanglements-cover.jpg" alt="book cover">
 </p>
-<p> <a href="/blog/tactical-entanglements"> meson press (April 2021)</a> </p>
+<p> <a href="/blog/tactical-entanglements"> meson press (June 2021)</a> </p>
 <p> Available as paperback and Open Access eBook </p>
 </div>
 

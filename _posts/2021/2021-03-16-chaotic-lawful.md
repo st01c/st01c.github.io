@@ -8,7 +8,7 @@ tagz: game studies, COVID-19, online teaching, educational licensing, intellectu
 publication: Journal of Cinema and Media Studies (JCMS) Teaching Media Dossier
 type: journal article
 featured_image: "/images/content/chaotic-lawful.jpg"
-pinned: "1"
+pinned: "0"
 ---
 
 Co-authored with my Abertay University colleague [Darshana Jayemanne](https://www.abertay.ac.uk/staff-search/dr-darshana-jayemanne/), and published in the special issue **"Copyright Under COVID-19 in Film and Media Studies"**, co-edited by Kirsten M. Thompson and Brendan Kredell.

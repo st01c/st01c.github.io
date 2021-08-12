@@ -1,7 +1,7 @@
 ---
 title: "Generative Adversarial Copy Machines"
 short_title: "Generative Adversarial Copy Machines"
-date: "2021-08-01"
+date: "2021-09-01"
 description:
 category: writing
 tagz: AI art, GANs, posthumanism, agency, intellectual property
