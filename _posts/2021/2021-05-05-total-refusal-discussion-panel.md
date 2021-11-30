@@ -8,7 +8,7 @@ tagz: machinima, game art, media art
 publication:
 type: discussion panel
 featured_image:
-pinned: "1"
+pinned: "0"
 external_url:
 venue: online
 ---

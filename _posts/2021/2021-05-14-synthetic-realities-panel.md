@@ -8,7 +8,7 @@ tagz: AI art, posthumanism, algorithmic governance
 publication:
 type: panel discussion
 featured_image:
-pinned: "1"
+pinned: "0"
 external_url:
 venue: Uroboros Festival, Prague/CZ
 ---
