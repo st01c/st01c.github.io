@@ -5,19 +5,19 @@ description: Information regarding my teaching activities.
 featured_image:
 ---
 
-#### Current teaching
+**Supervision inquiries** are welcome from prospective doctoral students in all of my areas of interest (specifically topics focusing on digital art / digital culture in relation to artificial intelligence, blockchain, intellectual property, and experimental digital games).
+
+#### Current undergraduate and postgraduate teaching
 
 At Abertay University's [School for Design and Informatics](https://www.abertay.ac.uk/schools/school-of-design-and-informatics/), I am currently involved in teaching the following:
 
 - _ART308_ **Critical Studies**
-- _ART404_ **Honours Project**
-- _ART405_ **Honours Project Proposal and Development**
+- _ART404_ **Undergraduate Honours Project**
+- _ART405_ **Undergraduate Honours Project Proposal & Development**
 - _DES104_ **Game Studies and Criticism**
-- _DES505_ **Innovation and Professional practice**
+- _DES509_ **Innovation and Professional practice**
 
-I am also currently developing AI and Data Ethics teaching content to be delivered across **Abertay University's new MSc Applied AI & UX degree**.
-
-**Supervision inquiries** are welcome from prospective doctoral students in all of my areas of interest (specifically topics focusing on digital culture in relation to artificial intelligence, blockchain, intellectual property, and experimental digital games).
+I am also involved in developing AI and Data Ethics teaching content to be delivered across **Abertay University's new MSc Applied AI & UX degree**.
 
 ---
 

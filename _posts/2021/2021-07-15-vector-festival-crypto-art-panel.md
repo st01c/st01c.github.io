@@ -10,7 +10,7 @@ type: discussion panel
 featured_image:
 pinned: "1"
 external_url:
-venue: Vector Festival, Toronto/CAN (online)
+venue: Vector Festival, Toronto/CAN
 ---
 
 For [Vector Festival 2021](https://vectorfestival.org/), I convened a discussion panel featuring **Sarah Friend** (artist and blockchain developer, Berlin/GER), and **Mitchell F Chan** (artist, Toronto/CAN). (**Ruth Catlow**, co-founder Furtherfield, London/UK, was originally also meant to join us). The title of our very stimulating conversation was **On De/centralization: Blockchain Art and New Forms of Community-Building**, and a recording of it is also available on YouTube.

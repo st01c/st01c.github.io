@@ -112,7 +112,7 @@ _current:
       {% assign recent_date_limit = current_date_num | minus: 180 %}
       {% if current_post_date_num >= recent_date_limit %}
 **"{{ post.title }}"** [&#8618;]({{ post.url }}) <br>
-{{ post.date | date: "%b %d %Y" }} -- {{ post.category }} -- tags: {{ post.tagz }}
+{{ post.date | date: "%b %d %Y" }} -- {{ post.category }}: {{ post.venue }} -- tags: {{ post.tagz }}
       {% endif %}
 {% endfor %}
 
