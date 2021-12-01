@@ -7,6 +7,7 @@ category: writing
 tagz: AI art, GANs, posthumanism, agency, intellectual property
 publication: Culture Machine (special issue on machine intelligence)
 type: journal article
+venue: Culture Machine Vol. 20
 featured_image:
 pinned: "1"
 ---

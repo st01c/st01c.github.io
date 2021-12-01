@@ -5,13 +5,11 @@ description:
 featured_image:
 ---
 
-I have been co-curator of the Toronto-based [Vector Festival](http://vectorfestival.org/) since 2014. In 2019, I joined the curatorial collective of the [NEoN Festival](https://northeastofnorth.com/) in Dundee, Scotland. Since roughly 2005, I have been involved in a number of other curatorial projects in Canada, Germany, Austria, and the UK.
+I was co-director/co-curator of the Toronto-based [Vector Festival](http://vectorfestival.org/) from 2014-2020, and continue to contribute to the festival in minor roles. In 2019 and 2020, I was a member of the curatorial collective for [NEoN Festival](https://northeastofnorth.com/) in Dundee, Scotland. Since roughly 2005, I have also been involved in a number of other curatorial projects in Canada, Germany, Austria, and the UK.
 
-My curatorial practice engages broadly with experimental media art, often focusing on digital art, software art, generative art, and experimental uses of video game technologies.
+My curatorial practice engages broadly with experimental media art, often focusing on digital art, software art, generative art, and experimental uses of video game technologies. Frequently, my curatorial projects carry critical/activist subtexts, for example with focus on algorithmic governance, surveillance issues, critical engineering, and many other issues related to computational culture.
 
-I am particularly interested in appropriation-based uses of emerging technologies, in developing new exhibition formats for digital work, and in exploring intersections between creative and critical practice.
-
-Thematically, past curatorial projects have focused on topics including artificial intelligence and generative art, surveillance and privacy issues, experimental game art, and critical engineering, among others.
+I am particularly interested in appropriation-based uses of emerging technologies (including AI and blockchain technologies), in developing new exhibition formats for digital work, and in exploring intersections between creative and critical practice.
 
 ---
 
