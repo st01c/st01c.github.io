@@ -8,7 +8,7 @@ tagz: crypto art, NFTs, digital art, decentralised autonomous organisations
 publication:
 type: discussion panel
 featured_image:
-pinned: "1"
+pinned: "0"
 external_url:
 venue: Vector Festival, Toronto/CAN
 ---

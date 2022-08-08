@@ -8,7 +8,7 @@ tagz: blockchain, crypto art, conceptual art, NFTs
 publication:
 type: invited lecture
 featured_image:
-pinned: "1"
+pinned: "0"
 external_url:
 venue: Uroboros Festival, Prague/CZ
 ---

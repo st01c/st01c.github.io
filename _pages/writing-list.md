@@ -5,6 +5,17 @@ description: A plain list with all items in the _writing category.
 featured_image:
 ---
 
+2022:
+{% for post in site.posts %}
+  {% if post.category == "writing" %}
+      {% assign year = post.date | date:"%Y" %}
+      {% if year == "2022" %}
+**"{{ post.title }}"** [&#8618;]({{ post.url }}) <br>
+_{{ post.publication }}_ -- {{post.type}} <br> tags: {{ post.tagz }}
+      {% endif %}
+  {% endif %}
+{% endfor %}
+---
 2021:
 {% for post in site.posts %}
   {% if post.category == "writing" %}

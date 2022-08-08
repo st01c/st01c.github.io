@@ -4,11 +4,12 @@ short_title: "Tactical Entanglements"
 date: "2021-07-01"
 description:
 category: writing
+venue: Meson Press
 tagz: AI, AI art, digital art, intellectual property, agency, posthumanism, tactical media
-publication: meson press
+publication: Meson Press
 type: monograph
 featured_image: "/images/content/TomWhite-for-cover.jpg"
-pinned: "1"
+pinned: "0"
 ---
 
 **Published June 2021 with meson press – available now as a free ebook or as paperback through online booksellers**
