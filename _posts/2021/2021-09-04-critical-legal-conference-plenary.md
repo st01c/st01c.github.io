@@ -9,7 +9,7 @@ publication:
 type: plenary talk
 featured_image:
 venue: Dundee University, Dundee/Scotland (& online)
-pinned: "1"
+pinned: "0"
 ---
 
 On a panel with **Joseph DeLappe** and 'DrCanonical', a critical AI project devised by **Pip Thornton** and **Andrew Dwyer**, I gave a plenary talk with the title "Law, AI, Oracle" at this year's Critical Legal Conference, hosted by the University of Dundee.

@@ -171,6 +171,14 @@
 <lastmod>2022-05-30T00:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/blog/xcoax</loc>
+<lastmod>2022-07-08T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/xcoax-proceedings</loc>
+<lastmod>2022-07-08T00:00:00+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/blog/prospectives</loc>
 <lastmod>2022-07-09T00:00:00+02:00</lastmod>
 </url>
@@ -223,6 +231,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/tiles/tiles.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/page2/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/downloads/Zeilinger_VGAR_vol2_2018v2.pdf</loc>
