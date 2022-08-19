@@ -5,7 +5,7 @@ description:
 featured_image:
 ---
 
-I was co-director/co-curator of the Toronto-based [Vector Festival](http://vectorfestival.org/) from 2014-2020, and continue to contribute to the festival in minor roles. In 2019 and 2020, I was a member of the curatorial collective for [NEoN Festival](https://northeastofnorth.com/) in Dundee, Scotland. Since roughly 2005, I have also been involved in a number of other curatorial projects in Canada, Germany, Austria, and the UK.
+I was co-director/co-curator of the Toronto-based [Vector Festival](http://vectorfestival.org/) from 2014-2020, and occasionally still contribute to the festival in minor roles. In 2019 and 2020, I was a member of the curatorial collective for [NEoN Festival](https://northeastofnorth.com/) in Dundee, Scotland. Since roughly 2005, I have also been involved in a number of independent curatorial projects in Canada, Germany, Austria, and the UK.
 
 My curatorial practice engages broadly with experimental media art, often focusing on digital art, software art, generative art, and experimental uses of video game technologies. Frequently, my curatorial projects carry critical/activist subtexts, for example with focus on algorithmic governance, surveillance issues, critical engineering, and many other issues related to computational culture.
 
