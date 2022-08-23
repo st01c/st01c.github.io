@@ -9,7 +9,7 @@ publication:
 type: panel discussion
 featured_image:
 venue: Serpentine Galleries, London/UK (& online)
-pinned: "1"
+pinned: "0"
 ---
 
 The Serpentine Galleries [Creative AI Lab](https://www.serpentinegalleries.org/whats-on/creative-ai-lab/) features a panel discussion on my new monograph, with Mercedes Bunz (KCL), Daniel Chávez Heras (KCL), Kay Watson (Serpentine Galleries), and Eva Jäger (Serpentine Galleries).

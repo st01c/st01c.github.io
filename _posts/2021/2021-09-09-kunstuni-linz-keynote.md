@@ -9,7 +9,7 @@ publication:
 type: keynote lecture
 featured_image:
 venue: Kunstuniversität Linz/AT (& online)
-pinned: "1"
+pinned: "0"
 ---
 
 Coinciding with this year's Ars Electronica Festival, I'm delighted to have been invited to give a keynote lecture at the Kunstuniversität (University of Art & Design) in Linz, as part of their Critical Data symposium (details forthcoming).

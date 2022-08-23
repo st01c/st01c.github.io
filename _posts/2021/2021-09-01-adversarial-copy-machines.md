@@ -9,7 +9,7 @@ publication: Culture Machine (special issue on machine intelligence)
 type: journal article
 venue: Culture Machine Vol. 20
 featured_image:
-pinned: "1"
+pinned: "0"
 ---
 
 Published *Culture Machine* Vol. 20 (2021), special issue: "Machine Intelligences in Context: Beyond the Technological Sublime," co-edited by **Peter Jakobsson**, **Anne Kaun** and **Fredrik Stiernstedt**.
