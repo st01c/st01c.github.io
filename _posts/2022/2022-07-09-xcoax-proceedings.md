@@ -9,7 +9,7 @@ publication: xCoAX 2022 Proceedings
 type: essay
 featured_image:
 venue: xCoAx 2022
-pinned: "1"
+pinned: "0"
 ---
 
 Full version of my essay on AI art, hyperobjects, and global warming for this year's xCoAx conference in Coimbra, Portugal.
