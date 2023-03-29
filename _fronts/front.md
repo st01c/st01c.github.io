@@ -44,7 +44,7 @@ img {
 </div>
 <div class="column">
 <p>
-<img src="/images/content/tactical-entanglements-cover.jpg" alt="book cover">
+<img src="/images/content/zeilinger-brochure-eng.png" alt="book cover">
 </p>
 <p> <a href="/blog/tactical-entanglements"> meson press (June 2021)</a> </p>
 <p> Available as paperback and Open Access eBook </p>

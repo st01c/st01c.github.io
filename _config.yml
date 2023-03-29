@@ -69,3 +69,7 @@ grid_alignments:
 # my additions:
 
 future: true #future posts are published in blog
+
+exclude:
+  - vendor/
+# recommended here: https://livid.v2ex.com/guides/2023/01/03/jekyll-macos-ventura.html
