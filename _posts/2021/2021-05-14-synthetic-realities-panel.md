@@ -6,7 +6,7 @@ description:
 category: talk
 tagz: AI art, posthumanism, algorithmic governance
 publication:
-type: panel discussion
+type: Panel discussion
 featured_image:
 pinned: "0"
 external_url:

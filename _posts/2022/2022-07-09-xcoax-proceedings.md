@@ -6,7 +6,7 @@ description:
 category: writing
 tagz: AI art, hyperobjects, anthropocene, global warming, digital art
 publication: xCoAX 2022 Proceedings
-type: essay
+type: Essay
 featured_image:
 venue: xCoAx 2022
 pinned: "0"

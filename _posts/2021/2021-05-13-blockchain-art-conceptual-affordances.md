@@ -6,7 +6,7 @@ description:
 category: talk
 tagz: blockchain, crypto art, conceptual art, NFTs
 publication:
-type: invited lecture
+type: Keynote lecture
 featured_image:
 pinned: "0"
 external_url:

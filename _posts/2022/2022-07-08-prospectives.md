@@ -6,7 +6,7 @@ description:
 category: news
 tagz: symposium, postgraduate, digital art
 publication:
-type: announcement
+type: Announcement
 featured_image:
 venue: Online
 pinned: "0"

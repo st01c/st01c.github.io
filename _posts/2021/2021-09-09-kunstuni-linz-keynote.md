@@ -6,7 +6,7 @@ description:
 category: talk
 tagz: AI art, posthumanism, algorithmic governance
 publication:
-type: keynote lecture
+type: Keynote lecture
 featured_image:
 venue: Kunstuniversität Linz/AT (& online)
 pinned: "0"

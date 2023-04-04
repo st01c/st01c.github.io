@@ -1,16 +1,27 @@
 ---
 title: _talks
-subtitle: a selection of talks and guest lectures available on video
+subtitle: a selection of talks and guest lectures available to stream online
 description: A list with selected items in the _talks category.
 featured_image:
 ---
 
+2023:
+{% for post in site.posts %}
+  {% if post.category == "talk" %}
+      {% assign year = post.date | date:"%Y" %}
+      {% if year == "2023" %}
+**{{ post.title }}** [&#8618;]({{ post.url }}) <br>
+{{ post.date | date: "%a %d %b" }} -- {{ post.venue }} -- {{ post.type }} <br> tags: {{ post.tagz }}
+      {% endif %}
+  {% endif %}
+{% endfor %}
+---
 2022:
 {% for post in site.posts %}
   {% if post.category == "talk" %}
       {% assign year = post.date | date:"%Y" %}
       {% if year == "2022" %}
-**"{{ post.title }}"** [&#8618;]({{ post.url }}) <br>
+**{{ post.title }}** [&#8618;]({{ post.url }}) <br>
 {{ post.date | date: "%a %d %b" }} -- {{ post.venue }} -- {{ post.type }} <br> tags: {{ post.tagz }}
       {% endif %}
   {% endif %}
@@ -21,7 +32,7 @@ featured_image:
   {% if post.category == "talk" %}
       {% assign year = post.date | date:"%Y" %}
       {% if year == "2021" %}
-**"{{ post.title }}"** [&#8618;]({{ post.url }}) <br>
+**{{ post.title }}** [&#8618;]({{ post.url }}) <br>
 {{ post.date | date: "%a %d %b" }} -- {{ post.venue }} -- {{ post.type }} <br> tags: {{ post.tagz }}
       {% endif %}
   {% endif %}
@@ -32,7 +43,7 @@ featured_image:
   {% if post.category == "talk" %}
       {% assign year = post.date | date:"%Y" %}
       {% if year == "2020" %}
-**"{{ post.title }}"** [&#8618;]({{ post.url }}) <br>
+**{{ post.title }}** [&#8618;]({{ post.url }}) <br>
 {{ post.date | date: "%a %d %b" }} -- {{ post.venue }} -- {{ post.type }} <br> tags: {{ post.tagz }}
       {% endif %}
   {% endif %}
@@ -43,7 +54,7 @@ featured_image:
   {% if post.category == "talk" %}
       {% assign year = post.date | date:"%Y" %}
       {% if year == "2019" %}
-**"{{ post.title }}"** [&#8618;]({{ post.url }}) <br>
+**{{ post.title }}** [&#8618;]({{ post.url }}) <br>
 {{ post.date | date: "%a %d %b" }} -- {{ post.venue }} -- {{ post.type }} <br> tags: {{ post.tagz }}
       {% endif %}
   {% endif %}
@@ -54,7 +65,7 @@ featured_image:
   {% if post.category == "talk" %}
       {% assign year = post.date | date:"%Y" %}
       {% if year == "2018" %}
-**"{{ post.title }}"** [&#8618;]({{ post.url }}) <br>
+**{{ post.title }}** [&#8618;]({{ post.url }}) <br>
 {{ post.date | date: "%a %d %b" }} -- {{ post.venue }} -- {{ post.type }} <br> tags: {{ post.tagz }}
       {% endif %}
   {% endif %}

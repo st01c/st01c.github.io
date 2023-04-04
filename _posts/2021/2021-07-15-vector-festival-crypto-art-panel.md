@@ -6,7 +6,7 @@ description:
 category: talk
 tagz: crypto art, NFTs, digital art, decentralised autonomous organisations
 publication:
-type: discussion panel
+type: Discussion panel
 featured_image:
 pinned: "0"
 external_url:

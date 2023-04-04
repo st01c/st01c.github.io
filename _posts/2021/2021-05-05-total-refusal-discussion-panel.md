@@ -6,7 +6,7 @@ description:
 category: talk
 tagz: machinima, game art, media art
 publication:
-type: discussion panel
+type: Discussion panel
 featured_image:
 pinned: "0"
 external_url:

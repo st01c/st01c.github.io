@@ -1,6 +1,6 @@
 ---
 title: _news
-subtitle:
+subtitle: aggregated news and updates, both current and past
 description: A plain list with all items in the 'news' category.
 featured_image:
 ---
@@ -111,8 +111,8 @@ _current:
       {% assign current_post_date_num = post_year_num | plus: post_month_num | plus: post_day_num %}
       {% assign recent_date_limit = current_date_num | minus: 180 %}
       {% if current_post_date_num >= recent_date_limit %}
-**"{{ post.title }}"** [&#8618;]({{ post.url }}) <br>
-{{ post.date | date: "%b %d %Y" }} / {{ post.type }} / {{ post.venue }} / tags: {{ post.tagz }}
+**{{ post.title }}** [&#8618;]({{ post.url }}) <br>
+{{ post.date | date: "%b %d %Y" }} // type: {{ post.type }} // venue: {{ post.venue }} // tags: {{ post.tagz }}
       {% endif %}
 {% endfor %}
 
@@ -127,7 +127,7 @@ _past:
       {% assign current_post_date_num = post_year_num | plus: post_month_num | plus: post_day_num %}
       {% assign past_date_limit = current_date_num | minus: 180 %}
       {% if current_post_date_num < past_date_limit %}
-**"{{ post.title }}"** [&#8618;]({{ post.url }}) <br>
-{{ post.date | date: "%b %d %Y" }} / {{ post.type }} / tags: {{ post.tagz }}
+**{{ post.title }}** [&#8618;]({{ post.url }}) <br>
+{{ post.date | date: "%b %d %Y" }} // type: {{ post.type }} // venue: {{ post.venue }} // tags: {{ post.tagz }}
       {% endif %}
 {% endfor %}

@@ -6,7 +6,7 @@ description:
 category: talk
 tagz: AI art, posthumanism, creative agency
 publication:
-type: panel discussion
+type: Panel discussion
 featured_image:
 venue: Serpentine Galleries, London/UK (& online)
 pinned: "0"

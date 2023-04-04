@@ -6,7 +6,7 @@ description:
 category: talk
 tagz: law, AI, posthumanism, mystifying AI
 publication:
-type: plenary talk
+type: Plenary talk
 featured_image:
 venue: Dundee University, Dundee/Scotland (& online)
 pinned: "0"

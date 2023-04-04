@@ -6,7 +6,7 @@ description:
 category: talk
 tagz: AI art, abstract art, GANs, deepfakes, perception
 publication:
-type: symposium presentation
+type: Symposium presentation
 featured_image:
 venue: Alberta Univ. of the Arts, Calgary/CAN
 pinned: "0"

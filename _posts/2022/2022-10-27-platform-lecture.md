@@ -6,10 +6,10 @@ description:
 category: talk
 tagz: gamification, guest speaker, game studies
 publication:
-type: guest lecture
+type: Guest lecture
 featured_image:
 venue: Abertay University
-pinned: "1"
+pinned: "0"
 ---
 
 As part of the Platform lecture series at Abertay University, we're excited to welcome Adrian Hon as our first guest speaker this year.

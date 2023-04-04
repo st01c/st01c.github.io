@@ -31,7 +31,7 @@ img {
   {% for post in site.posts %}
       {% assign pin_var = post.pinned | plus: 0%}
       {% if pin_var == 1 %}
-          <p> <b>'{{ post.title }}'</b> {{post.venue}}<br> {{ post.date | date: "%b %d %Y" }} -- {{ post.type }} <a href="{{ post.url }}">&#8618;</a></p>
+          <p> <b>{{ post.title }}</b> {{post.venue}}<br> {{ post.date | date: "%b %d %Y" }} -- {{ post.type }} <a href="{{ post.url }}">&#8618;</a></p>
       {% endif %}
   {% endfor %}
   <hr>

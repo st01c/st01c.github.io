@@ -6,7 +6,7 @@ description:
 category: writing
 tagz: game studies, COVID-19, online teaching, educational licensing, intellectual property
 publication: Journal of Cinema and Media Studies (JCMS) Teaching Media Dossier
-type: journal article
+type: Journal article
 featured_image: "/images/content/chaotic-lawful.jpg"
 pinned: "0"
 ---
