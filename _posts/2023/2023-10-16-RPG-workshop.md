@@ -31,4 +31,4 @@ We (Dr. Martin Zeilinger and Dr. Darshana Jayemanne) are developing this event w
 
 **Activities:** In small groups, we will use an existing RPG (Microscope) to explore the workshop topics and develop our own RPG framework and scenarios. The ultimate goal is to co-design an RPG that allows players to formulate critical perspectives on gamification/financialisation.
 
-**Register:** We have limited spaces available for each of the days – please use the [online sign-up](https://docs.google.com/forms/d/e/1FAIpQLSf7C8ctf8Nk78sBvJuJLys2Fm_2MDu9drWevF3oCHsSRqfk3A/viewform?usp=sf_link) to secure your spot by Wednesday 8 November. Feel free to contact Martin at m.zeilinger@abertay.ac.uk for more info!
+~~**Register:** We have limited spaces available for each of the days – please use the [online sign-up]~~ **Our workshop is fully booked and registration has now closed.**
