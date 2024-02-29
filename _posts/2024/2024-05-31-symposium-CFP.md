@@ -1,7 +1,7 @@
 ---
 title: "Symposium on the Convergence of Gamification & Financialisation"
 short_title: "Symposium CFP"
-date: "2024-02-20"
+date: "2024-05-31"
 description:
 category: symposium
 tagz: gamification, financialisation, symposium, research network
@@ -20,9 +20,11 @@ pinned: "1"
 
 Organised by Dr. Darshana Jayemanne and Dr. Martin Zeilinger
 
+Keynote lecture by [Dr. Rachel O’Dwyer](https://rachelodwyer.com/) (National College of Art & Design, Dublin)
+
 Hosted in-person at Abertay University (Dundee/UK), with funding support from the Royal Society of Edinburg (RSE) (remote presentations can be arranged)
 
-**Important dates**: Symposium: **May 24-25 2024**; Abstract submission: **April 1**.
+**Important dates**: Symposium: **May 31 - June 1 2024**; Abstract submission: **April 8**.
 
 **Format**: 20-minute presentations (submission: 200 word abstract & 100 word bio)
 
@@ -46,7 +48,7 @@ Topics of discussion could include:
 - Policy, law and regulation of gamification and financialisation
 - Cultural, spatial and temporal aspects of gamified finance and/or financialised play
 
-The symposium will feature keynote lectures (tbd), networking opportunities, and a workshop/play event during which a RPG-boardgame on the network theme will be presented.
+The symposium will feature academic presentations, networking opportunities, and a workshop/play event during which a RPG-boardgame on the network theme will be presented. We are delighted to host Dr. Rachel O’Dwyer as our keynote speaker for the symposium. Rachel is a lecturer at the National College of Art and Design in Dublin, and author of the recently published, highly acclaimed [_Tokens: The Future of Money in the Age of the Platform_](https://www.versobooks.com/en-gb/products/2957-tokens) (Verso 2023).
 
 Note that there will be opportunity for symposium presentations to be included in a peer-reviewed journal special issue or co-edited book (details to be determined).
 
