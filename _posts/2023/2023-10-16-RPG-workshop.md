@@ -3,7 +3,7 @@ title: "RPG Co-Creation Workshop on Gamification & Financialisation"
 short_title: "RPG workshop invite"
 date: "2023-11-24"
 description:
-category: workshop
+category: talks
 tagz: gamification, financialisation, RPG, workshop, research network
 publication:
 type: workshop

@@ -247,6 +247,10 @@
 <lastmod>2023-09-13T00:00:00+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/blog/spike-ai</loc>
+<lastmod>2023-10-25T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/blog/rpg-workshop</loc>
 <lastmod>2023-11-24T00:00:00+00:00</lastmod>
 </url>
@@ -294,6 +298,10 @@
 </url>
 <url>
 <loc>http://localhost:4000/blog/page2/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/downloads/Zeilinger-Spike77.pdf</loc>
+<lastmod>2023-11-07T17:20:28+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/downloads/Zeilinger_VGAR_vol2_2018v2.pdf</loc>
