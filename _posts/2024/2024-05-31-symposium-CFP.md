@@ -29,7 +29,8 @@ Additional support from the School of Design & Informatics, Abertay University_
 
 _(Live stream link to be confirmed)_
 
-_(Link for digital copies of abstracts and bios tbc.)_
+_Access a PDF of the program [here]({{ site.url }}/downloads/Symposium-program.pdf) and digital copies of abstracts/bios [here]({{ site.url }}/downloads/Symposium-abstracts-bios.pdf)_
+
 
 ### 🤑 Day 1 (May 31)
 
