@@ -1,12 +1,12 @@
 ---
 title: "Symposium on the Convergence of Gamification & Financialisation"
-short_title: "Symposium CFP"
-date: "2024-05-31"
+short_title: "Symposium"
+date: "2024-05-01"
 description:
-category: symposium
+category:
 tagz: gamification, financialisation, symposium, research network
 publication:
-type: symposium
+type:
 featured_image:
 venue: Abertay University, Dundee/UK
 pinned: "1"
@@ -122,6 +122,6 @@ Respondent: **Adrian Hon** (Game designer and author)
 
 #### 16:00: Reflections on the symposium and closing discussion (with coffee & biscuits)
 **Dr. Max Haiven** (Canada Research Chair in the Radical Imagination, Lakehead University) \\
-	in conversation with
+	in conversation with \\
 **Dr. Aleena Chia** (Lecturer in Media, Communications and Cultural Studies, Goldsmiths University) \\
 Facilitated by Martin and Darshana
