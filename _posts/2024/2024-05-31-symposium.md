@@ -12,6 +12,12 @@ venue: Abertay University, Dundee/UK
 pinned: "1"
 ---
 
+_**We are pleased to present the program for an interdisciplinary symposium on the problematic convergence of gamification (adding game mechanics to non-game environments) and financialisation (embedding financial processes in non-finance contexts).**_
+
+_**At a moment when playful activities are becoming more and more financialised (such as in monetised casual videogames) and when we experience financial activities as more and more gamified (such as in many online banking and investment apps), how does this impact our attitudes towards money, finance, the value of attention, and our agency in online activities?**_
+
+_**In light of such developments, how should we rethink the concept of play?**_
+
 ## 🤑🤑🤑 ~ PROGRAM ~ 🤑🤑🤑
 
 Date: \\
@@ -27,7 +33,7 @@ _Organised and hosted by Dr. Darshana Jayemanne and Dr. Martin Zeilinger \\
 Funded by the Royal Society of Edinburgh (RSE) \\
 Additional support from the School of Design & Informatics, Abertay University_
 
-_(Live stream link to be confirmed)_
+Live stream: [Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWMyN2VhMWYtOTBlMy00YjMxLTgxMTgtZTVkZDU4YmEwMmY3%40thread.v2/0?context=%7B%22Tid%22%3A%22aacb1aba-f38f-410e-9153-c16a00ebf4cc%22%2C%22Oid%22%3A%22560aac18-eb86-4f99-a78c-9d6c039e012d%22%2C%22IsBroadcastMeeting%22%3Atrue%2C%22role%22%3A%22a%22%7D&btype=a&role=a)
 
 _Access a PDF of the program [here]({{ site.url }}/downloads/Symposium-program.pdf) and digital copies of abstracts/bios [here]({{ site.url }}/downloads/Symposium-abstracts-bios.pdf)_
 
