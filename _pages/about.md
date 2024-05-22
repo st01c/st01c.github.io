@@ -7,7 +7,7 @@ featured_image:
 
 #### Short bio (tl;dr):
 
-I am an Austrian researcher and curator currently based in Dundee, Scotland, where I work as [Senior Lecturer in Computational Arts and Technology](https://rke.abertay.ac.uk/en/persons/martin-zeilinger) at Abertay University. My work focuses on artistic and activist experiments with emerging technologies (primarily blockchain and AI), intellectual property issues in contemporary art, and aspects of experimental videogame culture.
+I am an Austrian researcher and curator currently based in Dundee, Scotland, where I work as [Reader in Computational Media](https://rke.abertay.ac.uk/en/persons/martin-zeilinger) at Abertay University. My work focuses on artistic and activist experiments with emerging technologies (primarily blockchain and AI), intellectual property issues in contemporary art, and aspects of experimental videogame culture.
 
 In 2021, I published the monograph [Tactical Entanglements: AI Art, Creative Agency, and the Limits of Intellectual Property](https://meson.press/books/tactical-entanglements/) with meson press, which is freely available under an Open Access license. More recently, I released [Structures of Belonging](https://aksioma.org/structures-of-belonging) as part of Aksioma's Postscriptum Series (2023), to begin re-imagining blockchain technologies beyond digital property enclosures. I co-curated [Vector Festival](http://vectorfestival.org/) (Toronto) from 2014 to 2020, and was lead organiser of the 2018 MoneyLab symposium (London). My writing about art and technology has been featured in books including **_Artists Re:Thinking the Blockchain_** and the **_MoneyLab Reader 2_**, in journals such as **_Leonardo_**, **_Philosophy & Technology_**, **_Culture Machine_**, and **_Media Theory_**, and in art magazines including **_Spike Art Magazine_** and **_Outland_**.
 
@@ -19,7 +19,7 @@ I can be reached on [Twitter](https://twitter.com/mrtnzlngr), through this [cont
 
 #### Longer bio:
 
-After many years in Vienna, Toronto, and London, I am currently based in Dundee, Scotland, where I hold a research and teaching position as [Senior Lecturer in Computational Arts & Technology](https://rke.abertay.ac.uk/en/persons/martin-zeilinger) at Abertay University.
+After many years in Vienna, Toronto, and London, I am currently based in Dundee, Scotland, where I hold a research and teaching position as [Reader in Computational Media](https://rke.abertay.ac.uk/en/persons/martin-zeilinger) at Abertay University.
 
 Much of my work focuses on artistic and activist experiments with emerging technologies – specifically artificial intelligence and distributed ledger technologies (aka, the blockchain). This frames a broader interest in digital art, appropriation-based art practices, theories of cultural ownership and intellectual property, political economies of new media, and aspects of experimental videogame culture. Most recently, my research also focuses on non-human and more-than-human agency.
 

@@ -47,7 +47,7 @@ _Access a PDF of the program [here]({{ site.url }}/downloads/Symposium-program.p
 
 ##### 10:30: Introduction & house-keeping
 **Dr. Darshana Jayemanne** (Senior Lecturer in Games and Arts, Abertay University) \\
-**Dr. Martin Zeilinger** (Senior Lecturer in Computational Arts & Technology, Abertay University)
+**Dr. Martin Zeilinger** (Reader in Computational Media, Abertay University)
 
 #### _Morning panel_ (11:00–13:00)
 
