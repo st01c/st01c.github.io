@@ -33,7 +33,7 @@ _Organised and hosted by Dr. Darshana Jayemanne and Dr. Martin Zeilinger \\
 Funded by the Royal Society of Edinburgh (RSE) \\
 Additional support from the School of Design & Informatics, Abertay University_
 
-Live stream: [Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWMyN2VhMWYtOTBlMy00YjMxLTgxMTgtZTVkZDU4YmEwMmY3%40thread.v2/0?context=%7B%22Tid%22%3A%22aacb1aba-f38f-410e-9153-c16a00ebf4cc%22%2C%22Oid%22%3A%22560aac18-eb86-4f99-a78c-9d6c039e012d%22%2C%22IsBroadcastMeeting%22%3Atrue%2C%22role%22%3A%22a%22%7D&btype=a&role=a)
+UPDATED LINK DAY 2 Live stream: [Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2FjMmMzOWMtMjdkMi00Mzg0LWI2OTEtN2IwMTdmNTgwYThi%40thread.v2/0?context=%7B%22Tid%22%3A%22aacb1aba-f38f-410e-9153-c16a00ebf4cc%22%2C%22Oid%22%3A%22560aac18-eb86-4f99-a78c-9d6c039e012d%22%2C%22IsBroadcastMeeting%22%3Atrue%2C%22role%22%3A%22a%22%7D&btype=a&role=a)
 
 _Access a PDF of the program [here]({{ site.url }}/downloads/Symposium-program.pdf) and digital copies of abstracts/bios [here]({{ site.url }}/downloads/Symposium-abstracts-bios.pdf)_
 
