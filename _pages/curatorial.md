@@ -5,13 +5,31 @@ description:
 featured_image:
 ---
 
-I was co-director/co-curator of the Toronto-based [Vector Festival](http://vectorfestival.org/) from 2014-2020, and occasionally still contribute to the festival in minor roles. In 2019 and 2020, I was a member of the curatorial collective for [NEoN Festival](https://northeastofnorth.com/) in Dundee, Scotland. Since roughly 2005, I have also been involved in a number of independent curatorial projects in Canada, Germany, Austria, and the UK.
+Currently co-curating [Wet Tech](https://marjz.notion.site/wet-tech), a (very) occasional series of low-key live performance events with a focus on improvisation & experimentation in sound & image, in Dundee with [Johanna Linsley](https://www.jhlinsley.com/).
 
-My curatorial practice engages broadly with experimental media art, often focusing on digital art, software art, generative art, and experimental uses of video game technologies. Frequently, my curatorial projects carry critical/activist subtexts, for example with focus on algorithmic governance, surveillance issues, critical engineering, and many other issues related to computational culture.
+Previously I was co-director/co-curator of the Toronto-based [Vector Festival](http://vectorfestival.org/) from 2014-2020. In 2019 and 2020, I was a member of the curatorial collective for [NEoN Festival](https://northeastofnorth.com/) in Dundee. I have been involved in various independent curatorial projects in Canada, Germany, Austria, and the UK since roughly 2005. Organisations and venue I've worked with have included, among many others, [Somerset House London](https://www.somersethouse.org.uk/) and the [Dundee Design Festival](https://2024.dundeedesignfestival.com/).
+
+My curatorial practice engages broadly with experimental media art, often focusing on digital art, software art, generative art, and experimental uses of video game technologies. Lately I'm also pivoting back to sound/music performance. Frequently, my curatorial projects carry critical/activist subtexts, for example with focus on AI, decentralised computation, algorithmic governance, surveillance issues, critical engineering, and environmental issues.
 
 I am particularly interested in appropriation-based uses of emerging technologies (including AI and blockchain technologies), in developing new exhibition formats for digital work, and in exploring intersections between creative and critical practice.
 
 ---
+
+#### 2025:
+
+SIGGRAPH Art Gallery Program 'Triage' Reviewer.
+
+#### 2024-2025:
+
+Member of the curatorial team for the 2025 [xCoAx](https://xcoax.org/) exhibition (hosted in Dundee).
+
+#### 2024:
+
+IRL version of [The World Is Beautiful Again](https://the-world-is-beautiful-again.com/) by [Sebastian Schmieg](https://sebastianschmieg.com/) and [Lina Schwarzenberg](https://linaschwarzenberg.com/) for the [Dundee Design Festival](https://2024.dundeedesignfestival.com/). The events included a photo walk in Dundee, a workshop, a performance (IRL and live-streamed) and a panel discussion feat. Sebastian Schmieg, Sarah Cook, and Laura Herman.
+
+#### 2023:
+
+Organised **Lo-Fi Mixtape**, a screening and lecture performance by Canadian experimental filmmaker [Clint Enns](https://clintenns.ca/), at [Federation Gallery](https://www.instagram.com/federation_gallery_/) (Dundee/UK) and [Jewellers](https://www.j-e-w-e-l-l-e-r-s.net/) (Morecambe/UK) (both July)
 
 #### 2021:
 

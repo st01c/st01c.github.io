@@ -11,7 +11,7 @@ At Abertay University's [School for Design and Informatics](https://www.abertay.
 - **Master of Science in Applied AI & UX**
 - **Master of Professional Practice in Games Development**
 
-In the 2023-2024 academic year, I hold a guest professorship in [Digital Humanities at the University of Bergamo](https://ls-tsce.unibg.it/en).
+Since 2023, I hold a guest professorship in [Digital Humanities at the University of Bergamo](https://ls-tsce.unibg.it/en).
 
 I am also a co-convener of the [xCoAx School of X](https://classof23.xcoax.org/) (summer doctoral school).
 
@@ -52,9 +52,9 @@ Marques Hardin, _Internet of Things (IoT) Applications for Remote Music Producti
 #### Current undergraduate and postgraduate teaching
 
 - _ART308_ **Critical Studies** (Module lead)
-- _ART404_ **Undergraduate Honours Project**
+- _DES403_ **Undergraduate Honours Project**
 - _DES104_ **Game Studies and Criticism**
-- _DES509_ **Critical Skills and Innovation**
+- _DES511_ **Critical Skills and Innovation**
 - AI and Data Ethics teaching content across **MSc degree in Applied AI & UX**.
 
 ---
