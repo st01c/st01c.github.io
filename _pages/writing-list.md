@@ -1,10 +1,21 @@
 ---
 title: _writing
-subtitle: research & art criticism available for online reading or downloading
+subtitle: research & art criticism available for online reading or downloading (get in touch if you'd like open access copies of anything)
 description: A plain list with all items in the _writing category.
 featured_image:
 ---
 
+2024:
+{% for post in site.posts %}
+  {% if post.category == "writing" %}
+      {% assign year = post.date | date:"%Y" %}
+      {% if year == "2024" %}
+**{{ post.title }}** [&#8618;]({{ post.url }}) <br>
+_{{ post.publication }}_ -- {{post.type}} <br> tags: {{ post.tagz }}
+      {% endif %}
+  {% endif %}
+{% endfor %}
+---
 2023:
 {% for post in site.posts %}
   {% if post.category == "writing" %}

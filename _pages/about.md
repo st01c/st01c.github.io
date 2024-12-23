@@ -13,7 +13,7 @@ In 2021, I published the monograph [Tactical Entanglements: AI Art, Creative Age
 
 ---
 
-I can be reached on [Twitter](https://twitter.com/mrtnzlngr), through this [contact form](/contact), or at my institutional email: _m [.] zeilinger [@] abertay.ac.uk_.
+I can be reached through this [contact form](/contact) or at my institutional email: _m [.] zeilinger [@] abertay.ac.uk_.
 
 ---
 

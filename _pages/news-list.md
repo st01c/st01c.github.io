@@ -1,6 +1,6 @@
 ---
 title: _news
-subtitle: aggregated news and updates, both current and past
+subtitle: everything, both new and old
 description: A plain list with all items in the 'news' category.
 featured_image:
 ---

@@ -9,7 +9,7 @@ publication:
 type: Keynote lecture
 featured_image:
 venue: Bergen Center for Electronic Art (BEK), Norway
-pinned: "1"
+pinned: "0"
 ---
 
 Nov 11, 2022, 19:30 CET

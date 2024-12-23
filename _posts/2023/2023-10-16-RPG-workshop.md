@@ -9,7 +9,7 @@ publication:
 type: workshop
 featured_image:
 venue: Abertay University, Dundee/UK
-pinned: "1"
+pinned: "0"
 ---
 
 ---

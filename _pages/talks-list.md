@@ -5,6 +5,28 @@ description: A list with selected items in the _talks category.
 featured_image:
 ---
 
+2025:
+{% for post in site.posts %}
+  {% if post.category == "talk" %}
+      {% assign year = post.date | date:"%Y" %}
+      {% if year == "2025" %}
+**{{ post.title }}** [&#8618;]({{ post.url }}) <br>
+{{ post.date | date: "%a %d %b" }} -- {{ post.venue }} -- {{ post.type }} <br> tags: {{ post.tagz }}
+      {% endif %}
+  {% endif %}
+{% endfor %}
+---
+2024:
+{% for post in site.posts %}
+  {% if post.category == "talk" %}
+      {% assign year = post.date | date:"%Y" %}
+      {% if year == "2024" %}
+**{{ post.title }}** [&#8618;]({{ post.url }}) <br>
+{{ post.date | date: "%a %d %b" }} -- {{ post.venue }} -- {{ post.type }} <br> tags: {{ post.tagz }}
+      {% endif %}
+  {% endif %}
+{% endfor %}
+---
 2023:
 {% for post in site.posts %}
   {% if post.category == "talk" %}

@@ -9,7 +9,7 @@ publication:
 type: Talk
 featured_image:
 venue: /rosa Zentrum für Netzkunst, Berlin/Germany
-pinned: "1"
+pinned: "0"
 ---
 
 Friday, Feb 3, 2023, Rosa-Luxemburg-Str. 35, 10178 Berlin
